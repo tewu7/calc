@@ -48156,12 +48156,12 @@
                     "item": "quick-claw",
                     "level": 50,
                     "moves": [
-                        "spikes",
-                        "selfdestruct",
-                        "megahorn",
-                        "light-screen"
+                        "roar",
+                        "whirlwind",
+                        "earthquake",
+                        "rock-slide"
                     ],
-                    "name": "forretress"
+                    "name": "donphan"
                 },
                 {
                     "item": "quick-claw",
@@ -48184,17 +48184,6 @@
                         "swords-dance"
                     ],
                     "name": "sandslash"
-                },
-                {
-                    "item": "quick-claw",
-                    "level": 50,
-                    "moves": [
-                        "roar",
-                        "whirlwind",
-                        "earthquake",
-                        "rock-slide"
-                    ],
-                    "name": "donphan"
                 }
             ]
         },
