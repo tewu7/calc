@@ -48067,7 +48067,7 @@
                 },
                 {
                     "item": "focus-band",
-                    "level": 55,
+                    "level": 54,
                     "moves": [
                         "crabhammer",
                         "swords-dance",
@@ -48078,7 +48078,7 @@
                 },
                 {
                     "item": "brightpowder",
-                    "level": 55,
+                    "level": 54,
                     "moves": [
                         "megahorn",
                         "ice-beam",
@@ -48102,7 +48102,6 @@
         },
         {
             "area": "Route 43",
-            "meta": "(right trainer)",
             "name": "pokemaniac-ben",
             "team": [
                 {
@@ -48115,58 +48114,83 @@
                         "spe": 15
                     },
                     "item": "leftovers",
-                    "level": 48,
+                    "level": 52,
                     "moves": [
                         "sky-attack",
                         "hp-grass",
                         "double-edge",
-                        "quick-attack"
+                        "double-team"
                     ],
                     "name": "pidgeot"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "berserk-gene",
                     "level": 48,
                     "moves": [
                         "double-edge",
                         "submission",
-                        "shadow-ball",
-                        "quick-attack"
+                        "iron-tail",
+                        "rock-slide"
                     ],
                     "name": "aipom"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 53,
+                    "moves": [
+                        "thunderbolt",
+                        "petal-dance",
+                        "surf",
+                        "thunder-wave"
+                    ],
+                    "name": "raichu"
                 }
             ]
         },
         {
             "area": "Route 43",
             "b2b": true,
-            "meta": "(left trainer)",
             "name": "pokemaniac-brent",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 60,
+                    "item": "quick-claw",
+                    "level": 50,
                     "moves": [
                         "spikes",
-                        "explosion"
+                        "selfdestruct",
+                        "megahorn",
+                        "light-screen"
                     ],
                     "name": "forretress"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
+                    "moves": [
+                        "waterfall",
+                        "earthquake",
+                        "sludge-bomb",
+                        "recover"
+                    ],
+                    "name": "quagsire"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 50,
                     "moves": [
                         "earthquake",
                         "ancientpower",
-                        "sludge-bomb"
+                        "sludge-bomb",
+                        "swords-dance"
                     ],
                     "name": "sandslash"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "roar",
+                        "whirlwind",
                         "earthquake",
                         "rock-slide"
                     ],
