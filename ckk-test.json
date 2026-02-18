@@ -48192,23 +48192,35 @@
             "name": "pokemaniac-ron",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 48,
+                    "item": "brightpowder",
+                    "level": 50,
                     "moves": [
-                        "rock-slide",
+                        "ancientpower",
                         "submission",
                         "waterfall",
-                        "double-edge"
+                        "earthquake"
                     ],
                     "name": "kabutops"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 55,
                     "moves": [
-                        "waterfall",
-                        "ice-beam",
-                        "ancientpower"
+                        "recover",
+                        "ancientpower",
+                        "blizzard",
+                        "psychic"
+                    ],
+                    "name": "corsola"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 50,
+                    "moves": [
+                        "hydro-pump",
+                        "blizzard",
+                        "ancientpower",
+                        "reversal"
                     ],
                     "name": "omastar"
                 }
@@ -48219,40 +48231,8 @@
             "name": "fisher-marvin",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 48,
-                    "moves": [
-                        "spikes",
-                        "waterfall",
-                        "sludge-bomb",
-                        "body-slam"
-                    ],
-                    "name": "qwilfish"
-                },
-                {
                     "item": "leftovers",
-                    "level": 48,
-                    "moves": [
-                        "hydro-pump",
-                        "confuse-ray",
-                        "blizzard"
-                    ],
-                    "name": "mantine"
-                },
-                {
-                    "item": "quick-claw",
-                    "level": 49,
-                    "moves": [
-                        "ancientpower",
-                        "waterfall",
-                        "earthquake",
-                        "sludge-bomb"
-                    ],
-                    "name": "quagsire"
-                },
-                {
-                    "item": "leftovers",
-                    "level": 49,
+                    "level": 53,
                     "moves": [
                         "thunder-wave",
                         "thunderbolt",
@@ -48260,6 +48240,47 @@
                         "ice-beam"
                     ],
                     "name": "lanturn"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 52,
+                    "moves": [
+                        "hydro-pump",
+                        "sludge-bomb",
+                        "screech",
+                        "explosion"
+                    ],
+                    "name": "qwilfish"
+                },
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "brightpowder",
+                    "level": 52,
+                    "moves": [
+                        "hydro-pump",
+                        "amnesia",
+                        "hp-grass",
+                        "aeroblast"
+                    ],
+                    "name": "mantine"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 53,
+                    "moves": [
+                        "octazooka",
+                        "ice-beam",
+                        "flamethrower",
+                        "psychic"
+                    ],
+                    "name": "octillery"
                 }
             ]
         },
