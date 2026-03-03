@@ -53922,7 +53922,7 @@
                         "spe": 15
                     },
                     "item": "miracleberry",
-                    "level": 73,
+                    "level": 72,
                     "moves": [
                         "psywave",
                         "psychic",
@@ -53932,15 +53932,26 @@
                     "name": "espeon"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 72,
+                    "item": "pink-bow",
+                    "level": 73,
                     "moves": [
-                        "moonlight",
-                        "thunderbolt",
+                        "double-edge",
+                        "psychic",
                         "ice-beam",
-                        "flamethrower"
+                        "iron-tail"
                     ],
-                    "name": "clefable"
+                    "name": "girafarig"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 73,
+                    "moves": [
+                        "hydro-pump",
+                        "ice-beam",
+                        "psychic",
+                        "thunderbolt"
+                    ],
+                    "name": "lapras"
                 },
                 {
                     "dvs": {
@@ -53962,26 +53973,15 @@
                     "name": "exeggutor"
                 },
                 {
-                    "item": "magnet",
-                    "level": 72,
-                    "moves": [
-                        "thunderbolt",
-                        "cross-chop",
-                        "ice-punch",
-                        "fire-punch"
-                    ],
-                    "name": "electabuzz"
-                },
-                {
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "fire-blast",
-                        "psychic",
+                        "thunderbolt",
                         "waterfall",
-                        "earthquake"
+                        "ice-beam",
+                        "thunder-wave"
                     ],
-                    "name": "slowking"
+                    "name": "lanturn"
                 },
                 {
                     "item": "miracleberry",
@@ -54015,28 +54015,20 @@
                         "hp-grass",
                         "reflect",
                         "thunderbolt",
-                        "explosion"
+                        "double-team"
                     ],
                     "name": "electrode"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "leftovers",
+                    "item": "poison-barb",
                     "level": 73,
                     "moves": [
-                        "giga-drain",
-                        "ancientpower",
-                        "leech-seed",
-                        "hp-fire"
+                        "earthquake",
+                        "sludge-bomb",
+                        "megahorn",
+                        "iron-tail"
                     ],
-                    "name": "venusaur"
+                    "name": "nidoking"
                 },
                 {
                     "item": "miracleberry",
@@ -54044,7 +54036,7 @@
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "attract",
+                        "spikes",
                         "giga-drain"
                     ],
                     "name": "tentacruel"
@@ -54073,26 +54065,18 @@
                     "level": 73,
                     "moves": [
                         "wing-attack",
-                        "reversal",
+                        "submission",
                         "hp-bug",
                         "metal-claw"
                     ],
                     "name": "scyther"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 15,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
                         "sky-attack",
-                        "hp-ground",
+                        "sludge-bomb",
                         "hypnosis",
                         "giga-drain"
                     ],
@@ -54114,7 +54098,7 @@
                         "spe": 15
                     },
                     "item": "leftovers",
-                    "level": 73,
+                    "level": 72,
                     "moves": [
                         "waterfall",
                         "ice-beam",
@@ -54125,11 +54109,11 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 72,
+                    "level": 73,
                     "moves": [
                         "return",
                         "earthquake",
-                        "rest",
+                        "scary-face",
                         "metal-claw"
                     ],
                     "name": "ursaring"
@@ -54141,12 +54125,12 @@
                         "selfdestruct",
                         "earthquake",
                         "rock-slide",
-                        "body-slam"
+                        "iron-tail"
                     ],
                     "name": "steelix"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "silverpowder",
                     "level": 73,
                     "moves": [
                         "megahorn",
@@ -54162,7 +54146,8 @@
                     "moves": [
                         "fire-blast",
                         "earthquake",
-                        "double-edge"
+                        "double-edge",
+                        "whirlwind"
                     ],
                     "name": "snorlax"
                 },
@@ -54184,21 +54169,13 @@
             "name": "elite-four-karen-1",
             "team": [
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
                     "level": 72,
                     "moves": [
                         "fire-punch",
                         "thunderbolt",
                         "ice-punch",
-                        "hp-water"
+                        "explosion"
                     ],
                     "name": "gengar"
                 },
@@ -54217,53 +54194,45 @@
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "hypnosis",
-                        "night-shade",
+                        "thunder-wave",
+                        "destiny-bond",
                         "thunderbolt",
                         "psychic"
                     ],
                     "name": "misdreavus"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 14,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "charcoal",
+                    "item": "blackglasses",
                     "level": 73,
                     "moves": [
                         "flamethrower",
                         "crunch",
                         "iron-tail",
-                        "hp-grass"
+                        "pursuit"
                     ],
                     "name": "houndoom"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "gold-berry",
                     "level": 73,
                     "moves": [
-                        "submission",
+                        "kinesis",
                         "psychic",
-                        "shadow-ball",
+                        "thunderbolt",
                         "reflect"
                     ],
-                    "name": "hypno"
+                    "name": "mr-mime"
                 },
                 {
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "double-team",
-                        "confuse-ray",
-                        "toxic",
-                        "moonlight"
+                        "giga-drain",
+                        "earthquake",
+                        "ancientpower",
+                        "leech-seed"
                     ],
-                    "name": "umbreon"
+                    "name": "meganium"
                 }
             ]
         },
@@ -54272,19 +54241,19 @@
             "name": "champion-lance",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 74,
+                    "item": "pink-bow",
+                    "level": 75,
                     "moves": [
-                        "return",
-                        "earthquake",
-                        "rest",
-                        "sleep-talk"
+                        "extremespeed",
+                        "waterfall",
+                        "ice-beam",
+                        "wing-attack"
                     ],
-                    "name": "kangaskhan"
+                    "name": "dragonite"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 74,
+                    "level": 75,
                     "moves": [
                         "sky-attack",
                         "earthquake",
@@ -54294,21 +54263,13 @@
                     "name": "aerodactyl"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
-                    "level": 74,
+                    "level": 75,
                     "moves": [
-                        "hp-flying",
+                        "double-edge",
                         "earthquake",
                         "hydro-pump",
-                        "ice-beam"
+                        "fire-blast"
                     ],
                     "name": "gyarados"
                 },
@@ -54324,26 +54285,26 @@
                     "name": "kingdra"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 74,
+                    "item": "blackglasses",
+                    "level": 75,
                     "moves": [
                         "ancientpower",
                         "earthquake",
-                        "thunderbolt",
-                        "ice-beam"
+                        "pursuit",
+                        "scary-face"
                     ],
                     "name": "tyranitar"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "gold-berry",
                     "level": 75,
                     "moves": [
-                        "extremespeed",
-                        "thunderbolt",
-                        "ice-beam",
-                        "flamethrower"
+                        "fire-blast",
+                        "aeroblast",
+                        "earthquake",
+                        "belly-drum"
                     ],
-                    "name": "dragonite"
+                    "name": "charizard"
                 }
             ]
         },
