@@ -10206,7 +10206,7 @@
                             {
                                 "chance": 30,
                                 "level": 39,
-                                "pokemon": "jumpluff"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 30,
@@ -10243,7 +10243,7 @@
                             {
                                 "chance": 30,
                                 "level": 39,
-                                "pokemon": "sunflora"
+                                "pokemon": "tangela"
                             },
                             {
                                 "chance": 30,
@@ -48295,12 +48295,12 @@
                         "giga-drain",
                         "leech-seed",
                         "toxic",
-                        "protect"
+                        "sacred-fire"
                     ],
                     "name": "sunkern"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "miracleberry",
                     "level": 99,
                     "moves": [
                         "metronome"
@@ -48308,7 +48308,7 @@
                     "name": "cleffa"
                 },
                 {
-                    "item": "mysteryberry",
+                    "item": "pink-bow",
                     "level": 99,
                     "moves": [
                         "body-slam",
@@ -48336,7 +48336,7 @@
                     "name": "pichu"
                 },
                 {
-                    "item": "mysteryberry",
+                    "item": "miracleberry",
                     "level": 99,
                     "moves": [
                         "metronome"
@@ -48344,18 +48344,10 @@
                     "name": "togepi"
                 },
                 {
-                    "dvs": {
-                        "atk": 13,
-                        "def": 13,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "leftovers",
                     "level": 99,
                     "moves": [
-                        "hp-bug"
+                        "fury-cutter"
                     ],
                     "name": "caterpie"
                 }
@@ -48374,18 +48366,19 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "miracleberry",
-                    "level": 49,
+                    "item": "blackglasses",
+                    "level": 51,
                     "moves": [
-                        "double-edge",
+                        "extremespeed",
                         "hp-flying",
-                        "waterfall"
+                        "waterfall",
+                        "crunch"
                     ],
                     "name": "gyarados"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "sludge-bomb",
                         "ice-beam",
@@ -48393,6 +48386,17 @@
                         "giga-drain"
                     ],
                     "name": "tentacruel"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 54,
+                    "moves": [
+                        "psychic",
+                        "giga-drain",
+                        "hydro-pump",
+                        "sky-attack"
+                    ],
+                    "name": "butterfree"
                 }
             ]
         },
@@ -48402,8 +48406,8 @@
             "name": "fisher-raymond",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 48,
+                    "item": "quick-claw",
+                    "level": 50,
                     "moves": [
                         "spikes",
                         "waterfall",
@@ -48414,10 +48418,10 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "flamethrower",
-                        "thunderbolt",
+                        "psychic",
                         "shadow-ball",
                         "sludge-bomb"
                     ],
@@ -48425,12 +48429,12 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "submission",
                         "crabhammer",
                         "metal-claw",
-                        "ice-punch"
+                        "hyper-beam"
                     ],
                     "name": "kingler"
                 }
@@ -48443,7 +48447,7 @@
             "team": [
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
                         "body-slam",
                         "submission",
@@ -48454,7 +48458,7 @@
                 },
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 53,
                     "moves": [
                         "toxic",
                         "sandstorm",
@@ -48462,17 +48466,6 @@
                         "protect"
                     ],
                     "name": "shuckle"
-                },
-                {
-                    "item": "magnet",
-                    "level": 48,
-                    "moves": [
-                        "thunderbolt",
-                        "cross-chop",
-                        "ice-punch",
-                        "quick-attack"
-                    ],
-                    "name": "electabuzz"
                 }
             ]
         },
@@ -48482,29 +48475,21 @@
             "team": [
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "shadow-ball",
-                        "thunderpunch",
+                        "explosion",
                         "ice-punch",
                         "fire-punch"
                     ],
                     "name": "gengar"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
                         "double-edge",
-                        "hp-water",
+                        "bubblebeam",
                         "shadow-ball",
                         "iron-tail"
                     ],
@@ -48512,30 +48497,31 @@
                 },
                 {
                     "item": "focus-band",
-                    "level": 48,
+                    "level": 52,
                     "moves": [
                         "fire-blast",
                         "iron-tail",
-                        "quick-attack",
+                        "hi-jump-kick",
                         "megahorn"
                     ],
                     "name": "rapidash"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
-                        "psychic",
-                        "giga-drain",
-                        "ancientpower"
+                        "psybeam",
+                        "razor-leaf",
+                        "explosion",
+                        "ember"
                     ],
                     "name": "exeggutor"
                 },
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
-                        "waterfall",
+                        "hydro-pump",
                         "ice-beam",
                         "earthquake",
                         "submission"
@@ -48544,7 +48530,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "psychic",
                         "ice-punch",
@@ -48557,6 +48543,7 @@
         },
         {
             "area": "Rocket Hideout",
+            "meta": "start of spikes",
             "name": "gruntm-16",
             "team": [
                 {
