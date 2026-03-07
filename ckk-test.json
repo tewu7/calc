@@ -16791,26 +16791,6 @@
     ],
     "landmarks": [
         {
-            "id": 0,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "???",
-                    "item": "twistedspoon"
-                },
-                {
-                    "amount": "?",
-                    "info": "Rematch Youngster Joey",
-                    "item": "master-ball"
-                }
-            ],
-            "locations": [],
-            "name": "special",
-            "positions": [
-                {}
-            ]
-        },
-        {
             "id": 1,
             "items": [
                 {
@@ -48418,7 +48398,7 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 50,
+                    "level": 48,
                     "moves": [
                         "flamethrower",
                         "psychic",
@@ -53930,34 +53910,34 @@
                     "name": "girafarig"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 73,
-                    "moves": [
-                        "hydro-pump",
-                        "ice-beam",
-                        "psychic",
-                        "thunderbolt"
-                    ],
-                    "name": "lapras"
-                },
-                {
                     "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
+                        "atk": 15,
+                        "def": 13,
+                        "hp": 15,
                         "spa": 15,
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "quick-claw",
-                    "level": 72,
+                    "item": "leftovers",
+                    "level": 73,
                     "moves": [
-                        "hp-fire",
+                        "sacred-fire",
                         "psychic",
-                        "giga-drain",
-                        "ancientpower"
+                        "faint-attack",
+                        "hp-ice"
                     ],
-                    "name": "exeggutor"
+                    "name": "ninetales"
+                },
+                {
+                    "item": "twistedspoon",
+                    "level": 73,
+                    "moves": [
+                        "psychic",
+                        "ice-punch",
+                        "shadow-ball",
+                        "submission"
+                    ],
+                    "name": "hypno"
                 },
                 {
                     "item": "leftovers",
@@ -54106,15 +54086,15 @@
                     "name": "ursaring"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "thick-club",
                     "level": 72,
                     "moves": [
-                        "selfdestruct",
-                        "earthquake",
-                        "rock-slide",
-                        "iron-tail"
+                        "bonemerang",
+                        "ancientpower",
+                        "cross-chop",
+                        "frustration"
                     ],
-                    "name": "steelix"
+                    "name": "marowak"
                 },
                 {
                     "item": "silverpowder",
@@ -54183,7 +54163,7 @@
                     "moves": [
                         "thunder-wave",
                         "destiny-bond",
-                        "thunderbolt",
+                        "giga-drain",
                         "psychic"
                     ],
                     "name": "misdreavus"
@@ -54200,21 +54180,21 @@
                     "name": "houndoom"
                 },
                 {
-                    "item": "gold-berry",
+                    "item": "sharp-beak",
                     "level": 73,
                     "moves": [
-                        "kinesis",
-                        "psychic",
-                        "thunderbolt",
-                        "reflect"
+                        "sky-attack",
+                        "ancientpower",
+                        "steel-wing",
+                        "agility"
                     ],
-                    "name": "mr-mime"
+                    "name": "yanma"
                 },
                 {
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "giga-drain",
+                        "petal-dance",
                         "earthquake",
                         "ancientpower",
                         "leech-seed"
