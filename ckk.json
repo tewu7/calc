@@ -9650,7 +9650,7 @@
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "girafarig"
+                                "pokemon": "tauros"
                             },
                             {
                                 "chance": 30,
@@ -9692,7 +9692,7 @@
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "granbull"
+                                "pokemon": "miltank"
                             },
                             {
                                 "chance": 20,
@@ -9724,7 +9724,7 @@
                             {
                                 "chance": 30,
                                 "level": 29,
-                                "pokemon": "ursaring"
+                                "pokemon": "kangaskhan"
                             },
                             {
                                 "chance": 30,
@@ -9912,77 +9912,40 @@
                             {
                                 "chance": 30,
                                 "level": 35,
-                                "pokemon": "magnemite"
+                                "pokemon": "magneton"
                             },
                             {
                                 "chance": 30,
                                 "level": 35,
-                                "pokemon": "teddiursa"
+                                "pokemon": "electabuzz"
                             },
                             {
                                 "chance": 20,
                                 "level": 35,
-                                "pokemon": "flaaffy"
+                                "pokemon": "ampharos"
                             },
                             {
                                 "chance": 10,
                                 "level": 35,
-                                "pokemon": "furret"
+                                "pokemon": "pikachu"
                             },
                             {
                                 "chance": 5,
                                 "level": 35,
-                                "pokemon": "sunflora"
+                                "pokemon": "electrode"
                             },
                             {
                                 "chance": 4,
                                 "level": 35,
-                                "pokemon": "stantler"
+                                "pokemon": "electrode"
                             },
                             {
                                 "chance": 1,
                                 "level": 35,
-                                "pokemon": "abra"
+                                "pokemon": "raichu"
                             }
                         ],
                         "morning": [
-                            {
-                                "chance": 30,
-                                "level": 35,
-                                "pokemon": "miltank"
-                            },
-                            {
-                                "chance": 30,
-                                "level": 35,
-                                "pokemon": "flaaffy"
-                            },
-                            {
-                                "chance": 20,
-                                "level": 35,
-                                "pokemon": "elekid"
-                            },
-                            {
-                                "chance": 10,
-                                "level": 35,
-                                "pokemon": "rapidash"
-                            },
-                            {
-                                "chance": 5,
-                                "level": 35,
-                                "pokemon": "pidgeot"
-                            },
-                            {
-                                "chance": 4,
-                                "level": 35,
-                                "pokemon": "sunflora"
-                            },
-                            {
-                                "chance": 1,
-                                "level": 35,
-                                "pokemon": "exeggcute"
-                            }
-                        ],
-                        "night": [
                             {
                                 "chance": 30,
                                 "level": 35,
@@ -9991,32 +9954,69 @@
                             {
                                 "chance": 30,
                                 "level": 35,
-                                "pokemon": "lickitung"
+                                "pokemon": "dugtrio"
                             },
                             {
                                 "chance": 20,
                                 "level": 35,
-                                "pokemon": "flaaffy"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 10,
                                 "level": 35,
-                                "pokemon": "tauros"
+                                "pokemon": "swinub"
                             },
                             {
                                 "chance": 5,
                                 "level": 35,
-                                "pokemon": "murkrow"
+                                "pokemon": "ivysaur"
                             },
                             {
                                 "chance": 4,
                                 "level": 35,
-                                "pokemon": "azumarill"
+                                "pokemon": "scyther"
                             },
                             {
                                 "chance": 1,
                                 "level": 35,
-                                "pokemon": "persian"
+                                "pokemon": "scyther"
+                            }
+                        ],
+                        "night": [
+                            {
+                                "chance": 30,
+                                "level": 35,
+                                "pokemon": "kadabra"
+                            },
+                            {
+                                "chance": 30,
+                                "level": 35,
+                                "pokemon": "mr-mime"
+                            },
+                            {
+                                "chance": 20,
+                                "level": 35,
+                                "pokemon": "jynx"
+                            },
+                            {
+                                "chance": 10,
+                                "level": 35,
+                                "pokemon": "wobbuffet"
+                            },
+                            {
+                                "chance": 5,
+                                "level": 35,
+                                "pokemon": "hypno"
+                            },
+                            {
+                                "chance": 4,
+                                "level": 35,
+                                "pokemon": "xatu"
+                            },
+                            {
+                                "chance": 1,
+                                "level": 35,
+                                "pokemon": "xatu"
                             }
                         ]
                     },
@@ -10049,111 +10049,111 @@
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "meowth"
+                                "pokemon": "tauros"
                             },
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "tangela"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 20,
                                 "level": 38,
-                                "pokemon": "persian"
+                                "pokemon": "tauros"
                             },
                             {
                                 "chance": 10,
                                 "level": 38,
-                                "pokemon": "tangela"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 5,
                                 "level": 38,
-                                "pokemon": "marill"
+                                "pokemon": "tauros"
                             },
                             {
                                 "chance": 4,
                                 "level": 38,
-                                "pokemon": "tangela"
+                                "pokemon": "houndoom"
                             },
                             {
                                 "chance": 1,
                                 "level": 38,
-                                "pokemon": "meowth"
+                                "pokemon": "houndoom"
                             }
                         ],
                         "morning": [
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "snubbull"
+                                "pokemon": "miltank"
                             },
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "diglett"
+                                "pokemon": "swinub"
                             },
                             {
                                 "chance": 20,
                                 "level": 38,
-                                "pokemon": "granbull"
+                                "pokemon": "miltank"
                             },
                             {
                                 "chance": 10,
                                 "level": 38,
-                                "pokemon": "dugtrio"
+                                "pokemon": "swinub"
                             },
                             {
                                 "chance": 5,
                                 "level": 38,
-                                "pokemon": "golduck"
+                                "pokemon": "miltank"
                             },
                             {
                                 "chance": 4,
                                 "level": 38,
-                                "pokemon": "dugtrio"
+                                "pokemon": "swinub"
                             },
                             {
                                 "chance": 1,
                                 "level": 38,
-                                "pokemon": "diglett"
+                                "pokemon": "swinub"
                             }
                         ],
                         "night": [
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "rattata"
+                                "pokemon": "kangaskhan"
                             },
                             {
                                 "chance": 30,
                                 "level": 38,
-                                "pokemon": "zubat"
+                                "pokemon": "scyther"
                             },
                             {
                                 "chance": 20,
                                 "level": 38,
-                                "pokemon": "raticate"
+                                "pokemon": "kangaskhan"
                             },
                             {
                                 "chance": 10,
                                 "level": 38,
-                                "pokemon": "golbat"
+                                "pokemon": "scyther"
                             },
                             {
                                 "chance": 5,
                                 "level": 38,
-                                "pokemon": "marill"
+                                "pokemon": "kangaskhan"
                             },
                             {
                                 "chance": 4,
                                 "level": 38,
-                                "pokemon": "golbat"
+                                "pokemon": "scyther"
                             },
                             {
                                 "chance": 1,
                                 "level": 38,
-                                "pokemon": "golbat"
+                                "pokemon": "scyther"
                             }
                         ]
                     },
@@ -10206,7 +10206,7 @@
                             {
                                 "chance": 30,
                                 "level": 39,
-                                "pokemon": "jumpluff"
+                                "pokemon": "bellsprout"
                             },
                             {
                                 "chance": 30,
@@ -10243,7 +10243,7 @@
                             {
                                 "chance": 30,
                                 "level": 39,
-                                "pokemon": "sunflora"
+                                "pokemon": "tangela"
                             },
                             {
                                 "chance": 30,
@@ -16790,26 +16790,6 @@
         }
     ],
     "landmarks": [
-        {
-            "id": 0,
-            "items": [
-                {
-                    "amount": "1",
-                    "info": "???",
-                    "item": "twistedspoon"
-                },
-                {
-                    "amount": "?",
-                    "info": "Rematch Youngster Joey",
-                    "item": "master-ball"
-                }
-            ],
-            "locations": [],
-            "name": "special",
-            "positions": [
-                {}
-            ]
-        },
         {
             "id": 1,
             "items": [
@@ -27662,14 +27642,14 @@
                 },
                 {
                     "level": 50,
-                    "move": "sludge-bomb"
+                    "move": "giga-drain"
                 },
                 {
                     "level": 55,
                     "move": "ice-beam"
                 },
                 {
-                    "level": 73,
+                    "level": 66,
                     "move": "waterfall"
                 },
                 {
@@ -31144,8 +31124,12 @@
                     "move": "submission"
                 },
                 {
+                    "level": 37,
+                    "move": "metal-claw"
+                },
+                {
                     "level": 39,
-                    "move": "counter"
+                    "move": "mach-punch"
                 },
                 {
                     "level": 45,
@@ -32218,6 +32202,10 @@
                     "move": "body-slam"
                 },
                 {
+                    "level": 38,
+                    "move": "earthquake"
+                },
+                {
                     "level": 40,
                     "move": "quick-attack"
                 },
@@ -32226,20 +32214,8 @@
                     "move": "rock-slide"
                 },
                 {
-                    "level": 67,
-                    "move": "earthquake"
-                },
-                {
-                    "level": 80,
-                    "move": "iron-tail"
-                },
-                {
-                    "level": 90,
+                    "level": 65,
                     "move": "double-edge"
-                },
-                {
-                    "level": 95,
-                    "move": "quick-attack"
                 }
             ],
             "name": "tauros",
@@ -43214,7 +43190,7 @@
                 },
                 {
                     "item": "berry",
-                    "level": 23,
+                    "level": 22,
                     "moves": [
                         "fire-punch",
                         "seismic-toss",
@@ -43452,6 +43428,17 @@
                         "thunderpunch"
                     ],
                     "name": "mankey"
+                },
+                {
+                    "item": "blackbelt",
+                    "level": 23,
+                    "moves": [
+                        "body-slam",
+                        "sing",
+                        "submission",
+                        "fire-punch"
+                    ],
+                    "name": "jigglypuff"
                 },
                 {
                     "item": "blackbelt",
@@ -43960,37 +43947,37 @@
             "name": "bug-catcher-wayne",
             "team": [
                 {
-                    "item": "scope-lens",
+                    "item": "miracleberry",
+                    "level": 27,
+                    "moves": [
+                        "night-shade",
+                        "rain-dance",
+                        "giga-drain",
+                        "icy-wind"
+                    ],
+                    "name": "misdreavus"
+                },
+                {
+                    "item": "berry-juice",
                     "level": 29,
                     "moves": [
-                        "ice-punch",
-                        "thunderpunch",
-                        "reflect",
-                        "light-screen"
+                        "light-screen",
+                        "rock-slide",
+                        "skull-bash",
+                        "giga-drain"
                     ],
-                    "name": "ledian"
+                    "name": "forretress"
                 },
                 {
-                    "item": "scope-lens",
-                    "level": 27,
+                    "item": "leftovers",
+                    "level": 28,
                     "moves": [
-                        "giga-drain",
-                        "sludge-bomb",
-                        "twineedle",
-                        "return"
-                    ],
-                    "name": "beedrill"
-                },
-                {
-                    "item": "scope-lens",
-                    "level": 27,
-                    "moves": [
-                        "giga-drain",
-                        "wing-attack",
                         "shadow-ball",
-                        "hypnosis"
+                        "psychic",
+                        "sleep-powder",
+                        "toxic"
                     ],
-                    "name": "yanma"
+                    "name": "venomoth"
                 }
             ]
         },
@@ -48048,28 +48035,6 @@
             "name": "fisher-tully",
             "team": [
                 {
-                    "item": "brightpowder",
-                    "level": 53,
-                    "moves": [
-                        "spikes",
-                        "ice-beam",
-                        "waterfall",
-                        "ancientpower"
-                    ],
-                    "name": "corsola"
-                },
-                {
-                    "item": "focus-band",
-                    "level": 52,
-                    "moves": [
-                        "megahorn",
-                        "ice-beam",
-                        "whirlpool",
-                        "curse"
-                    ],
-                    "name": "seaking"
-                },
-                {
                     "item": "quick-claw",
                     "level": 52,
                     "moves": [
@@ -48079,12 +48044,44 @@
                         "flamethrower"
                     ],
                     "name": "slowking"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 54,
+                    "moves": [
+                        "crabhammer",
+                        "swords-dance",
+                        "metal-claw",
+                        "submission"
+                    ],
+                    "name": "kingler"
+                },
+                {
+                    "item": "brightpowder",
+                    "level": 54,
+                    "moves": [
+                        "megahorn",
+                        "ice-beam",
+                        "whirlpool",
+                        "curse"
+                    ],
+                    "name": "seaking"
+                },
+                {
+                    "item": "gold-berry",
+                    "level": 52,
+                    "moves": [
+                        "octazooka",
+                        "dragonbreath",
+                        "return",
+                        "ice-beam"
+                    ],
+                    "name": "kingdra"
                 }
             ]
         },
         {
             "area": "Route 43",
-            "meta": "(right trainer)",
             "name": "pokemaniac-ben",
             "team": [
                 {
@@ -48097,62 +48094,76 @@
                         "spe": 15
                     },
                     "item": "leftovers",
-                    "level": 48,
+                    "level": 52,
                     "moves": [
                         "sky-attack",
                         "hp-grass",
                         "double-edge",
-                        "quick-attack"
+                        "double-team"
                     ],
                     "name": "pidgeot"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "berserk-gene",
                     "level": 48,
                     "moves": [
                         "double-edge",
                         "submission",
-                        "shadow-ball",
-                        "quick-attack"
+                        "iron-tail",
+                        "rock-slide"
                     ],
                     "name": "aipom"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 53,
+                    "moves": [
+                        "thunderbolt",
+                        "petal-dance",
+                        "surf",
+                        "thunder-wave"
+                    ],
+                    "name": "raichu"
                 }
             ]
         },
         {
             "area": "Route 43",
             "b2b": true,
-            "meta": "(left trainer)",
             "name": "pokemaniac-brent",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 60,
-                    "moves": [
-                        "spikes",
-                        "explosion"
-                    ],
-                    "name": "forretress"
-                },
-                {
                     "item": "quick-claw",
-                    "level": 48,
-                    "moves": [
-                        "earthquake",
-                        "ancientpower",
-                        "sludge-bomb"
-                    ],
-                    "name": "sandslash"
-                },
-                {
-                    "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "roar",
+                        "whirlwind",
                         "earthquake",
                         "rock-slide"
                     ],
                     "name": "donphan"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 50,
+                    "moves": [
+                        "waterfall",
+                        "earthquake",
+                        "sludge-bomb",
+                        "recover"
+                    ],
+                    "name": "quagsire"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 50,
+                    "moves": [
+                        "earthquake",
+                        "ancientpower",
+                        "sludge-bomb",
+                        "swords-dance"
+                    ],
+                    "name": "sandslash"
                 }
             ]
         },
@@ -48161,23 +48172,35 @@
             "name": "pokemaniac-ron",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 48,
+                    "item": "brightpowder",
+                    "level": 50,
                     "moves": [
-                        "rock-slide",
+                        "ancientpower",
                         "submission",
                         "waterfall",
-                        "double-edge"
+                        "earthquake"
                     ],
                     "name": "kabutops"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 55,
                     "moves": [
-                        "waterfall",
-                        "ice-beam",
-                        "ancientpower"
+                        "recover",
+                        "ancientpower",
+                        "blizzard",
+                        "psychic"
+                    ],
+                    "name": "corsola"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 50,
+                    "moves": [
+                        "hydro-pump",
+                        "blizzard",
+                        "ancientpower",
+                        "reversal"
                     ],
                     "name": "omastar"
                 }
@@ -48188,40 +48211,8 @@
             "name": "fisher-marvin",
             "team": [
                 {
-                    "item": "miracleberry",
-                    "level": 48,
-                    "moves": [
-                        "spikes",
-                        "waterfall",
-                        "sludge-bomb",
-                        "body-slam"
-                    ],
-                    "name": "qwilfish"
-                },
-                {
                     "item": "leftovers",
-                    "level": 48,
-                    "moves": [
-                        "hydro-pump",
-                        "confuse-ray",
-                        "blizzard"
-                    ],
-                    "name": "mantine"
-                },
-                {
-                    "item": "quick-claw",
-                    "level": 49,
-                    "moves": [
-                        "ancientpower",
-                        "waterfall",
-                        "earthquake",
-                        "sludge-bomb"
-                    ],
-                    "name": "quagsire"
-                },
-                {
-                    "item": "leftovers",
-                    "level": 49,
+                    "level": 53,
                     "moves": [
                         "thunder-wave",
                         "thunderbolt",
@@ -48229,6 +48220,47 @@
                         "ice-beam"
                     ],
                     "name": "lanturn"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 52,
+                    "moves": [
+                        "hydro-pump",
+                        "sludge-bomb",
+                        "screech",
+                        "explosion"
+                    ],
+                    "name": "qwilfish"
+                },
+                {
+                    "dvs": {
+                        "atk": 14,
+                        "def": 14,
+                        "hp": 3,
+                        "spa": 15,
+                        "spd": 15,
+                        "spe": 15
+                    },
+                    "item": "brightpowder",
+                    "level": 52,
+                    "moves": [
+                        "hydro-pump",
+                        "amnesia",
+                        "hp-grass",
+                        "aeroblast"
+                    ],
+                    "name": "mantine"
+                },
+                {
+                    "item": "quick-claw",
+                    "level": 53,
+                    "moves": [
+                        "octazooka",
+                        "ice-beam",
+                        "flamethrower",
+                        "psychic"
+                    ],
+                    "name": "octillery"
                 }
             ]
         },
@@ -48243,12 +48275,12 @@
                         "giga-drain",
                         "leech-seed",
                         "toxic",
-                        "protect"
+                        "sacred-fire"
                     ],
                     "name": "sunkern"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "miracleberry",
                     "level": 99,
                     "moves": [
                         "metronome"
@@ -48256,7 +48288,7 @@
                     "name": "cleffa"
                 },
                 {
-                    "item": "mysteryberry",
+                    "item": "pink-bow",
                     "level": 99,
                     "moves": [
                         "body-slam",
@@ -48284,7 +48316,7 @@
                     "name": "pichu"
                 },
                 {
-                    "item": "mysteryberry",
+                    "item": "miracleberry",
                     "level": 99,
                     "moves": [
                         "metronome"
@@ -48292,18 +48324,10 @@
                     "name": "togepi"
                 },
                 {
-                    "dvs": {
-                        "atk": 13,
-                        "def": 13,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "leftovers",
                     "level": 99,
                     "moves": [
-                        "hp-bug"
+                        "fury-cutter"
                     ],
                     "name": "caterpie"
                 }
@@ -48322,18 +48346,19 @@
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "miracleberry",
-                    "level": 49,
+                    "item": "blackglasses",
+                    "level": 51,
                     "moves": [
-                        "double-edge",
+                        "extremespeed",
                         "hp-flying",
-                        "waterfall"
+                        "waterfall",
+                        "crunch"
                     ],
                     "name": "gyarados"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "sludge-bomb",
                         "ice-beam",
@@ -48341,6 +48366,17 @@
                         "giga-drain"
                     ],
                     "name": "tentacruel"
+                },
+                {
+                    "item": "focus-band",
+                    "level": 54,
+                    "moves": [
+                        "psychic",
+                        "giga-drain",
+                        "hydro-pump",
+                        "sky-attack"
+                    ],
+                    "name": "butterfree"
                 }
             ]
         },
@@ -48350,8 +48386,8 @@
             "name": "fisher-raymond",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 48,
+                    "item": "quick-claw",
+                    "level": 50,
                     "moves": [
                         "spikes",
                         "waterfall",
@@ -48365,7 +48401,7 @@
                     "level": 48,
                     "moves": [
                         "flamethrower",
-                        "thunderbolt",
+                        "psychic",
                         "shadow-ball",
                         "sludge-bomb"
                     ],
@@ -48373,12 +48409,12 @@
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "submission",
                         "crabhammer",
                         "metal-claw",
-                        "ice-punch"
+                        "hyper-beam"
                     ],
                     "name": "kingler"
                 }
@@ -48391,7 +48427,7 @@
             "team": [
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
                         "body-slam",
                         "submission",
@@ -48402,7 +48438,7 @@
                 },
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 53,
                     "moves": [
                         "toxic",
                         "sandstorm",
@@ -48410,17 +48446,6 @@
                         "protect"
                     ],
                     "name": "shuckle"
-                },
-                {
-                    "item": "magnet",
-                    "level": 48,
-                    "moves": [
-                        "thunderbolt",
-                        "cross-chop",
-                        "ice-punch",
-                        "quick-attack"
-                    ],
-                    "name": "electabuzz"
                 }
             ]
         },
@@ -48430,29 +48455,21 @@
             "team": [
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "shadow-ball",
-                        "thunderpunch",
+                        "explosion",
                         "ice-punch",
                         "fire-punch"
                     ],
                     "name": "gengar"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
                         "double-edge",
-                        "hp-water",
+                        "bubblebeam",
                         "shadow-ball",
                         "iron-tail"
                     ],
@@ -48460,30 +48477,31 @@
                 },
                 {
                     "item": "focus-band",
-                    "level": 48,
+                    "level": 52,
                     "moves": [
                         "fire-blast",
                         "iron-tail",
-                        "quick-attack",
+                        "hi-jump-kick",
                         "megahorn"
                     ],
                     "name": "rapidash"
                 },
                 {
                     "item": "quick-claw",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
-                        "psychic",
-                        "giga-drain",
-                        "ancientpower"
+                        "psybeam",
+                        "razor-leaf",
+                        "explosion",
+                        "ember"
                     ],
                     "name": "exeggutor"
                 },
                 {
                     "item": "leftovers",
-                    "level": 49,
+                    "level": 51,
                     "moves": [
-                        "waterfall",
+                        "hydro-pump",
                         "ice-beam",
                         "earthquake",
                         "submission"
@@ -48492,7 +48510,7 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 48,
+                    "level": 50,
                     "moves": [
                         "psychic",
                         "ice-punch",
@@ -48505,6 +48523,7 @@
         },
         {
             "area": "Rocket Hideout",
+            "meta": "start of spikes",
             "name": "gruntm-16",
             "team": [
                 {
@@ -53870,7 +53889,7 @@
                         "spe": 15
                     },
                     "item": "miracleberry",
-                    "level": 73,
+                    "level": 72,
                     "moves": [
                         "psywave",
                         "psychic",
@@ -53880,56 +53899,56 @@
                     "name": "espeon"
                 },
                 {
-                    "item": "leftovers",
-                    "level": 72,
+                    "item": "pink-bow",
+                    "level": 73,
                     "moves": [
-                        "moonlight",
-                        "thunderbolt",
+                        "double-edge",
+                        "psychic",
                         "ice-beam",
-                        "flamethrower"
+                        "iron-tail"
                     ],
-                    "name": "clefable"
+                    "name": "girafarig"
                 },
                 {
                     "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
+                        "atk": 15,
+                        "def": 13,
+                        "hp": 15,
                         "spa": 15,
                         "spd": 15,
                         "spe": 15
                     },
-                    "item": "quick-claw",
-                    "level": 72,
+                    "item": "leftovers",
+                    "level": 73,
                     "moves": [
-                        "hp-fire",
+                        "sacred-fire",
                         "psychic",
-                        "giga-drain",
-                        "ancientpower"
+                        "faint-attack",
+                        "hp-ice"
                     ],
-                    "name": "exeggutor"
+                    "name": "ninetales"
                 },
                 {
-                    "item": "magnet",
-                    "level": 72,
+                    "item": "twistedspoon",
+                    "level": 73,
                     "moves": [
-                        "thunderbolt",
-                        "cross-chop",
+                        "psychic",
                         "ice-punch",
-                        "fire-punch"
+                        "shadow-ball",
+                        "submission"
                     ],
-                    "name": "electabuzz"
+                    "name": "hypno"
                 },
                 {
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "fire-blast",
-                        "psychic",
+                        "thunderbolt",
                         "waterfall",
-                        "earthquake"
+                        "ice-beam",
+                        "thunder-wave"
                     ],
-                    "name": "slowking"
+                    "name": "lanturn"
                 },
                 {
                     "item": "miracleberry",
@@ -53963,28 +53982,20 @@
                         "hp-grass",
                         "reflect",
                         "thunderbolt",
-                        "explosion"
+                        "double-team"
                     ],
                     "name": "electrode"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 12,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "leftovers",
+                    "item": "poison-barb",
                     "level": 73,
                     "moves": [
-                        "giga-drain",
-                        "ancientpower",
-                        "leech-seed",
-                        "hp-fire"
+                        "earthquake",
+                        "sludge-bomb",
+                        "megahorn",
+                        "iron-tail"
                     ],
-                    "name": "venusaur"
+                    "name": "nidoking"
                 },
                 {
                     "item": "miracleberry",
@@ -53992,7 +54003,7 @@
                     "moves": [
                         "waterfall",
                         "ice-beam",
-                        "attract",
+                        "spikes",
                         "giga-drain"
                     ],
                     "name": "tentacruel"
@@ -54021,26 +54032,18 @@
                     "level": 73,
                     "moves": [
                         "wing-attack",
-                        "reversal",
+                        "submission",
                         "hp-bug",
                         "metal-claw"
                     ],
                     "name": "scyther"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 15,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
                         "sky-attack",
-                        "hp-ground",
+                        "sludge-bomb",
                         "hypnosis",
                         "giga-drain"
                     ],
@@ -54062,7 +54065,7 @@
                         "spe": 15
                     },
                     "item": "leftovers",
-                    "level": 73,
+                    "level": 72,
                     "moves": [
                         "waterfall",
                         "ice-beam",
@@ -54073,28 +54076,28 @@
                 },
                 {
                     "item": "miracleberry",
-                    "level": 72,
+                    "level": 73,
                     "moves": [
                         "return",
                         "earthquake",
-                        "rest",
+                        "scary-face",
                         "metal-claw"
                     ],
                     "name": "ursaring"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "thick-club",
                     "level": 72,
                     "moves": [
-                        "selfdestruct",
-                        "earthquake",
-                        "rock-slide",
-                        "body-slam"
+                        "bonemerang",
+                        "ancientpower",
+                        "cross-chop",
+                        "frustration"
                     ],
-                    "name": "steelix"
+                    "name": "marowak"
                 },
                 {
-                    "item": "quick-claw",
+                    "item": "silverpowder",
                     "level": 73,
                     "moves": [
                         "megahorn",
@@ -54110,7 +54113,8 @@
                     "moves": [
                         "fire-blast",
                         "earthquake",
-                        "double-edge"
+                        "double-edge",
+                        "whirlwind"
                     ],
                     "name": "snorlax"
                 },
@@ -54132,21 +54136,13 @@
             "name": "elite-four-karen-1",
             "team": [
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
                     "level": 72,
                     "moves": [
                         "fire-punch",
                         "thunderbolt",
                         "ice-punch",
-                        "hp-water"
+                        "explosion"
                     ],
                     "name": "gengar"
                 },
@@ -54165,53 +54161,45 @@
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "hypnosis",
-                        "night-shade",
-                        "thunderbolt",
+                        "thunder-wave",
+                        "destiny-bond",
+                        "giga-drain",
                         "psychic"
                     ],
                     "name": "misdreavus"
                 },
                 {
-                    "dvs": {
-                        "atk": 14,
-                        "def": 14,
-                        "hp": 3,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "charcoal",
+                    "item": "blackglasses",
                     "level": 73,
                     "moves": [
                         "flamethrower",
                         "crunch",
                         "iron-tail",
-                        "hp-grass"
+                        "pursuit"
                     ],
                     "name": "houndoom"
                 },
                 {
-                    "item": "leftovers",
+                    "item": "sharp-beak",
                     "level": 73,
                     "moves": [
-                        "submission",
-                        "psychic",
-                        "shadow-ball",
-                        "reflect"
+                        "sky-attack",
+                        "ancientpower",
+                        "steel-wing",
+                        "agility"
                     ],
-                    "name": "hypno"
+                    "name": "yanma"
                 },
                 {
                     "item": "leftovers",
                     "level": 73,
                     "moves": [
-                        "double-team",
-                        "confuse-ray",
-                        "toxic",
-                        "moonlight"
+                        "petal-dance",
+                        "earthquake",
+                        "ancientpower",
+                        "leech-seed"
                     ],
-                    "name": "umbreon"
+                    "name": "meganium"
                 }
             ]
         },
@@ -54220,19 +54208,19 @@
             "name": "champion-lance",
             "team": [
                 {
-                    "item": "leftovers",
-                    "level": 74,
+                    "item": "pink-bow",
+                    "level": 75,
                     "moves": [
-                        "return",
-                        "earthquake",
-                        "rest",
-                        "sleep-talk"
+                        "extremespeed",
+                        "waterfall",
+                        "ice-beam",
+                        "wing-attack"
                     ],
-                    "name": "kangaskhan"
+                    "name": "dragonite"
                 },
                 {
                     "item": "miracleberry",
-                    "level": 74,
+                    "level": 75,
                     "moves": [
                         "sky-attack",
                         "earthquake",
@@ -54242,21 +54230,13 @@
                     "name": "aerodactyl"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
                     "item": "miracleberry",
-                    "level": 74,
+                    "level": 75,
                     "moves": [
-                        "hp-flying",
+                        "double-edge",
                         "earthquake",
                         "hydro-pump",
-                        "ice-beam"
+                        "fire-blast"
                     ],
                     "name": "gyarados"
                 },
@@ -54272,26 +54252,26 @@
                     "name": "kingdra"
                 },
                 {
-                    "item": "miracleberry",
-                    "level": 74,
+                    "item": "blackglasses",
+                    "level": 75,
                     "moves": [
                         "ancientpower",
                         "earthquake",
-                        "thunderbolt",
-                        "ice-beam"
+                        "pursuit",
+                        "scary-face"
                     ],
                     "name": "tyranitar"
                 },
                 {
-                    "item": "miracleberry",
+                    "item": "gold-berry",
                     "level": 75,
                     "moves": [
-                        "extremespeed",
-                        "thunderbolt",
-                        "ice-beam",
-                        "flamethrower"
+                        "fire-blast",
+                        "aeroblast",
+                        "earthquake",
+                        "belly-drum"
                     ],
-                    "name": "dragonite"
+                    "name": "charizard"
                 }
             ]
         },
