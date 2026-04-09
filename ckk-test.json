@@ -48366,17 +48366,6 @@
                         "giga-drain"
                     ],
                     "name": "tentacruel"
-                },
-                {
-                    "item": "focus-band",
-                    "level": 54,
-                    "moves": [
-                        "psychic",
-                        "giga-drain",
-                        "hydro-pump",
-                        "sky-attack"
-                    ],
-                    "name": "butterfree"
                 }
             ]
         },
@@ -48446,6 +48435,17 @@
                         "protect"
                     ],
                     "name": "shuckle"
+                },
+                {
+                    "item": "blackbelt",
+                    "level": 51,
+                    "moves": [
+                        "thunderbolt",
+                        "cross-chop",
+                        "ice-punch",
+                        "mach-punch"
+                    ],
+                    "name": "electabuzz"
                 }
             ]
         },

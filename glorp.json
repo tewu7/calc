@@ -204,7 +204,7 @@
                             {
                                 "chance": 15,
                                 "level": 3,
-                                "pokemon": "teddiursa"
+                                "pokemon": "snubbull"
                             },
                             {
                                 "chance": 15,
@@ -309,7 +309,7 @@
                         {
                             "chance": 100,
                             "level": 5,
-                            "pokemon": "snubbull"
+                            "pokemon": "meowth"
                         }
                     ],
                     "type": "headbutt"
@@ -796,7 +796,7 @@
                             {
                                 "chance": 15,
                                 "level": 3,
-                                "pokemon": "diglett"
+                                "pokemon": "cubone"
                             },
                             {
                                 "chance": 15,
@@ -806,7 +806,7 @@
                             {
                                 "chance": 15,
                                 "level": 3,
-                                "pokemon": "diglett"
+                                "pokemon": "cubone"
                             },
                             {
                                 "chance": 15,
@@ -848,7 +848,7 @@
                             {
                                 "chance": 15,
                                 "level": 3,
-                                "pokemon": "diglett"
+                                "pokemon": "cubone"
                             },
                             {
                                 "chance": 10,
@@ -895,7 +895,7 @@
                             {
                                 "chance": 10,
                                 "level": 3,
-                                "pokemon": "diglett"
+                                "pokemon": "cubone"
                             }
                         ]
                     },
@@ -4369,7 +4369,7 @@
         {
             "accuracy": 70,
             "extra": [
-                "30% chance to paralyze opponent\n100% accurate in rain, 50% accurage in sun\nHits opponents in the semi-invulnerable turn of Fly"
+                "30% chance to paralyze opponent\n100% accurate in rain, 50% accurate in sun\nHits opponents in the semi-invulnerable turn of Fly"
             ],
             "index": 87,
             "name": "thunder",
@@ -6736,6 +6736,18 @@
                 {
                     "level": 16,
                     "move": "mega-drain"
+                },
+                {
+                    "level": 18,
+                    "move": "stun-spore"
+                },
+                {
+                    "level": 20,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 25,
+                    "move": "extrasensory"
                 }
             ],
             "name": "butterfree",
@@ -6840,6 +6852,18 @@
                 {
                     "level": 16,
                     "move": "twineedle"
+                },
+                {
+                    "level": 18,
+                    "move": "toxic"
+                },
+                {
+                    "level": 20,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 25,
+                    "move": "x-scissor"
                 }
             ],
             "name": "beedrill",
@@ -6920,13 +6944,26 @@
             "evolutions": [
                 {
                     "into": "pidgeot",
-                    "level": 1,
+                    "level": 36,
                     "method": "level"
                 }
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "whirlwind"
+                },
+                {
+                    "level": 20,
+                    "move": "steel-wing"
+                },
+                {
+                    "level": 25,
+                    "move": "air-slash"
+                }
+            ],
             "name": "pidgeotto",
             "pokedex": 17,
             "stats": {
@@ -6998,7 +7035,15 @@
                 },
                 {
                     "level": 16,
-                    "move": "hyper-fang"
+                    "move": "swift"
+                },
+                {
+                    "level": 18,
+                    "move": "focus-energy"
+                },
+                {
+                    "level": 20,
+                    "move": "super-fang"
                 }
             ],
             "name": "rattata",
@@ -7020,7 +7065,12 @@
             "base_experience": 116,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "hyper-fang"
+                }
+            ],
             "name": "raticate",
             "pokedex": 20,
             "stats": {
@@ -7071,6 +7121,14 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "horn-attack"
+                },
+                {
+                    "level": 20,
+                    "move": "steel-wing"
                 }
             ],
             "name": "spearow",
@@ -7093,7 +7151,12 @@
             "base_experience": 162,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "drill-peck"
+                }
+            ],
             "name": "fearow",
             "pokedex": 22,
             "stats": {
@@ -7149,6 +7212,14 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "screech"
+                },
+                {
+                    "level": 20,
+                    "move": "bulldoze"
                 }
             ],
             "name": "ekans",
@@ -7170,7 +7241,12 @@
             "base_experience": 147,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "giga-drain"
+                }
+            ],
             "name": "arbok",
             "pokedex": 24,
             "stats": {
@@ -7205,6 +7281,18 @@
                 {
                     "level": 16,
                     "move": "spark"
+                },
+                {
+                    "level": 18,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 20,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 25,
+                    "move": "thunderpunch"
                 }
             ],
             "name": "pikachu",
@@ -7277,6 +7365,14 @@
                 {
                     "level": 16,
                     "move": "bone-club"
+                },
+                {
+                    "level": 18,
+                    "move": "rapid-spin"
+                },
+                {
+                    "level": 20,
+                    "move": "seismic-toss"
                 }
             ],
             "name": "sandshrew",
@@ -7298,7 +7394,12 @@
             "base_experience": 163,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "dig"
+                }
+            ],
             "name": "sandslash",
             "pokedex": 28,
             "stats": {
@@ -7381,7 +7482,20 @@
             ],
             "gender": "f100",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "roar"
+                },
+                {
+                    "level": 20,
+                    "move": "horn-attack"
+                },
+                {
+                    "level": 25,
+                    "move": "dig"
+                }
+            ],
             "name": "nidorina",
             "pokedex": 30,
             "stats": {
@@ -7485,7 +7599,20 @@
             ],
             "gender": "f0",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "roar"
+                },
+                {
+                    "level": 20,
+                    "move": "horn-attack"
+                },
+                {
+                    "level": 25,
+                    "move": "dig"
+                }
+            ],
             "name": "nidorino",
             "pokedex": 33,
             "stats": {
@@ -7541,6 +7668,18 @@
                 {
                     "level": 16,
                     "move": "swift"
+                },
+                {
+                    "level": 18,
+                    "move": "moonlight"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "tri-attack"
                 }
             ],
             "name": "clefairy",
@@ -7617,6 +7756,18 @@
                 {
                     "level": 16,
                     "move": "flame-wheel"
+                },
+                {
+                    "level": 18,
+                    "move": "safeguard"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "will-o-wisp"
                 }
             ],
             "name": "vulpix",
@@ -7677,6 +7828,18 @@
                 {
                     "level": 16,
                     "move": "dizzy-punch"
+                },
+                {
+                    "level": 18,
+                    "move": "moonlight"
+                },
+                {
+                    "level": 20,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
                 }
             ],
             "name": "jigglypuff",
@@ -7753,6 +7916,14 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "screech"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
                 }
             ],
             "name": "zubat",
@@ -7776,13 +7947,18 @@
             "evolutions": [
                 {
                     "into": "crobat",
-                    "level": 1,
+                    "level": 40,
                     "method": "level"
                 }
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "air-slash"
+                }
+            ],
             "name": "golbat",
             "pokedex": 42,
             "stats": {
@@ -7872,7 +8048,20 @@
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "poisonpowder"
+                },
+                {
+                    "level": 20,
+                    "move": "magical-leaf"
+                },
+                {
+                    "level": 25,
+                    "move": "moonlight"
+                }
+            ],
             "name": "gloom",
             "pokedex": 44,
             "stats": {
@@ -7949,6 +8138,14 @@
                 {
                     "level": 16,
                     "move": "twineedle"
+                },
+                {
+                    "level": 18,
+                    "move": "spore"
+                },
+                {
+                    "level": 20,
+                    "move": "sludge"
                 }
             ],
             "name": "paras",
@@ -7971,7 +8168,12 @@
             "base_experience": 128,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "x-scissor"
+                }
+            ],
             "name": "parasect",
             "pokedex": 47,
             "stats": {
@@ -8027,6 +8229,18 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "stun-spore"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
+                },
+                {
+                    "level": 25,
+                    "move": "signal-beam"
                 }
             ],
             "name": "venonat",
@@ -8077,32 +8291,7 @@
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [
-                {
-                    "level": 1,
-                    "move": "scratch"
-                },
-                {
-                    "level": 1,
-                    "move": "sand-attack"
-                },
-                {
-                    "level": 5,
-                    "move": "mud-slap"
-                },
-                {
-                    "level": 10,
-                    "move": "rock-throw"
-                },
-                {
-                    "level": 12,
-                    "move": "slash"
-                },
-                {
-                    "level": 16,
-                    "move": "bulldoze"
-                }
-            ],
+            "learnset": [],
             "name": "diglett",
             "pokedex": 50,
             "stats": {
@@ -8173,6 +8362,18 @@
                 {
                     "level": 16,
                     "move": "slash"
+                },
+                {
+                    "level": 18,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 20,
+                    "move": "bubblebeam"
+                },
+                {
+                    "level": 25,
+                    "move": "thunder-wave"
                 }
             ],
             "name": "meowth",
@@ -8215,7 +8416,7 @@
             "evolutions": [
                 {
                     "into": "golduck",
-                    "level": 30,
+                    "level": 25,
                     "method": "level"
                 }
             ],
@@ -8249,6 +8450,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "psych-up"
+                },
+                {
+                    "level": 20,
+                    "move": "aqua-jet"
+                },
+                {
+                    "level": 25,
+                    "move": "extrasensory"
                 }
             ],
             "name": "psyduck",
@@ -8325,6 +8538,18 @@
                 {
                     "level": 16,
                     "move": "rolling-kick"
+                },
+                {
+                    "level": 18,
+                    "move": "scary-face"
+                },
+                {
+                    "level": 20,
+                    "move": "lick"
+                },
+                {
+                    "level": 25,
+                    "move": "submission"
                 }
             ],
             "name": "mankey",
@@ -8398,6 +8623,18 @@
                 {
                     "level": 16,
                     "move": "flame-wheel"
+                },
+                {
+                    "level": 18,
+                    "move": "quick-attack"
+                },
+                {
+                    "level": 20,
+                    "move": "spark"
+                },
+                {
+                    "level": 25,
+                    "move": "crunch"
                 }
             ],
             "name": "growlithe",
@@ -8568,13 +8805,30 @@
             "evolutions": [
                 {
                     "into": "alakazam",
-                    "level": 1,
+                    "level": 40,
                     "method": "level"
                 }
             ],
             "gender": "f25",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "reflect"
+                },
+                {
+                    "level": 18,
+                    "move": "light-screen"
+                },
+                {
+                    "level": 20,
+                    "move": "recover"
+                },
+                {
+                    "level": 25,
+                    "move": "extrasensory"
+                }
+            ],
             "name": "kadabra",
             "pokedex": 64,
             "stats": {
@@ -8752,7 +9006,20 @@
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "poisonpowder"
+                },
+                {
+                    "level": 20,
+                    "move": "magical-leaf"
+                },
+                {
+                    "level": 25,
+                    "move": "synthesis"
+                }
+            ],
             "name": "weepinbell",
             "pokedex": 70,
             "stats": {
@@ -8825,6 +9092,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "conversion"
+                },
+                {
+                    "level": 20,
+                    "move": "screech"
+                },
+                {
+                    "level": 25,
+                    "move": "aurora-beam"
                 }
             ],
             "name": "tentacool",
@@ -8899,6 +9178,18 @@
                 {
                     "level": 16,
                     "move": "bulldoze"
+                },
+                {
+                    "level": 18,
+                    "move": "rock-tomb"
+                },
+                {
+                    "level": 20,
+                    "move": "selfdestruct"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
                 }
             ],
             "name": "geodude",
@@ -9005,6 +9296,18 @@
                 {
                     "level": 16,
                     "move": "flame-wheel"
+                },
+                {
+                    "level": 18,
+                    "move": "agility"
+                },
+                {
+                    "level": 20,
+                    "move": "spark"
+                },
+                {
+                    "level": 25,
+                    "move": "drill-run"
                 }
             ],
             "name": "ponyta",
@@ -9131,6 +9434,18 @@
                 {
                     "level": 16,
                     "move": "steel-wing"
+                },
+                {
+                    "level": 18,
+                    "move": "conversion"
+                },
+                {
+                    "level": 20,
+                    "move": "spark"
+                },
+                {
+                    "level": 25,
+                    "move": "screech"
                 }
             ],
             "name": "magnemite",
@@ -9202,6 +9517,18 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "featherdance"
+                },
+                {
+                    "level": 20,
+                    "move": "steel-wing"
+                },
+                {
+                    "level": 25,
+                    "move": "submission"
                 }
             ],
             "name": "farfetchd",
@@ -9246,7 +9573,7 @@
                 },
                 {
                     "level": 10,
-                    "move": "rage"
+                    "move": "tackle"
                 },
                 {
                     "level": 12,
@@ -9259,6 +9586,18 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "double-kick"
+                },
+                {
+                    "level": 20,
+                    "move": "steel-wing"
+                },
+                {
+                    "level": 25,
+                    "move": "tri-attack"
                 }
             ],
             "name": "doduo",
@@ -9337,6 +9676,18 @@
                 {
                     "level": 16,
                     "move": "aurora-beam"
+                },
+                {
+                    "level": 18,
+                    "move": "encore"
+                },
+                {
+                    "level": 20,
+                    "move": "ice-shard"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "seel",
@@ -9410,6 +9761,18 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "bulldoze"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
+                },
+                {
+                    "level": 25,
+                    "move": "seismic-toss"
                 }
             ],
             "name": "grimer",
@@ -9534,6 +9897,18 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "will-o-wisp"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
+                },
+                {
+                    "level": 25,
+                    "move": "psybeam"
                 }
             ],
             "name": "gastly",
@@ -9762,6 +10137,18 @@
                 {
                     "level": 16,
                     "move": "spark"
+                },
+                {
+                    "level": 18,
+                    "move": "mimic"
+                },
+                {
+                    "level": 20,
+                    "move": "selfdestruct"
+                },
+                {
+                    "level": 25,
+                    "move": "agility"
                 }
             ],
             "name": "voltorb",
@@ -9810,7 +10197,48 @@
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 1,
+                    "move": "tackle"
+                },
+                {
+                    "level": 1,
+                    "move": "stun-spore"
+                },
+                {
+                    "level": 5,
+                    "move": "absorb"
+                },
+                {
+                    "level": 10,
+                    "move": "confusion"
+                },
+                {
+                    "level": 12,
+                    "move": "poisonpowder"
+                },
+                {
+                    "level": 14,
+                    "move": "razor-leaf"
+                },
+                {
+                    "level": 16,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 18,
+                    "move": "synthesis"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
+                },
+                {
+                    "level": 25,
+                    "move": "extrasensory"
+                }
+            ],
             "name": "exeggcute",
             "pokedex": 102,
             "stats": {
@@ -9853,13 +10281,50 @@
             "evolutions": [
                 {
                     "into": "marowak",
-                    "level": 1,
+                    "level": 25,
                     "method": "level"
                 }
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 1,
+                    "move": "scratch"
+                },
+                {
+                    "level": 1,
+                    "move": "focus-energy"
+                },
+                {
+                    "level": 5,
+                    "move": "mud-slap"
+                },
+                {
+                    "level": 10,
+                    "move": "rock-throw"
+                },
+                {
+                    "level": 12,
+                    "move": "leer"
+                },
+                {
+                    "level": 16,
+                    "move": "bone-club"
+                },
+                {
+                    "level": 18,
+                    "move": "spite"
+                },
+                {
+                    "level": 20,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
+                }
+            ],
             "name": "cubone",
             "pokedex": 104,
             "stats": {
@@ -9963,6 +10428,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "screech"
+                },
+                {
+                    "level": 20,
+                    "move": "bulldoze"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
                 }
             ],
             "name": "lickitung",
@@ -10015,6 +10492,18 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "pain-split"
+                },
+                {
+                    "level": 20,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 25,
+                    "move": "will-o-wisp"
                 }
             ],
             "name": "koffing",
@@ -10057,7 +10546,7 @@
             "evolutions": [
                 {
                     "into": "rhydon",
-                    "level": 42,
+                    "level": 40,
                     "method": "level"
                 }
             ],
@@ -10087,6 +10576,18 @@
                 {
                     "level": 16,
                     "move": "bulldoze"
+                },
+                {
+                    "level": 18,
+                    "move": "dragonbreath"
+                },
+                {
+                    "level": 20,
+                    "move": "rock-tomb"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
                 }
             ],
             "name": "rhyhorn",
@@ -10181,6 +10682,18 @@
                 {
                     "level": 16,
                     "move": "razor-leaf"
+                },
+                {
+                    "level": 18,
+                    "move": "poisonpowder"
+                },
+                {
+                    "level": 20,
+                    "move": "rock-tomb"
+                },
+                {
+                    "level": 25,
+                    "move": "synthesis"
                 }
             ],
             "name": "tangela",
@@ -10257,6 +10770,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "sludge"
+                },
+                {
+                    "level": 20,
+                    "move": "aurora-beam"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "horsea",
@@ -10340,6 +10865,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "agility"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "goldeen",
@@ -10484,6 +11021,18 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "karate-chop"
+                },
+                {
+                    "level": 20,
+                    "move": "quick-attack"
+                },
+                {
+                    "level": 25,
+                    "move": "steel-wing"
                 }
             ],
             "name": "scyther",
@@ -10578,7 +11127,7 @@
                 },
                 {
                     "level": 5,
-                    "move": "fury-cutter"
+                    "move": "rock-throw"
                 },
                 {
                     "level": 10,
@@ -10591,6 +11140,18 @@
                 {
                     "level": 16,
                     "move": "bulldoze"
+                },
+                {
+                    "level": 18,
+                    "move": "quick-attack"
+                },
+                {
+                    "level": 20,
+                    "move": "twineedle"
+                },
+                {
+                    "level": 25,
+                    "move": "submission"
                 }
             ],
             "name": "pinsir",
@@ -10619,7 +11180,7 @@
                 },
                 {
                     "level": 1,
-                    "move": "tail-whip"
+                    "move": "growl"
                 },
                 {
                     "level": 5,
@@ -10627,7 +11188,7 @@
                 },
                 {
                     "level": 10,
-                    "move": "rage"
+                    "move": "tail-whip"
                 },
                 {
                     "level": 12,
@@ -10640,6 +11201,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "double-kick"
+                },
+                {
+                    "level": 20,
+                    "move": "spark"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
                 }
             ],
             "name": "tauros",
@@ -10892,6 +11465,18 @@
                 {
                     "level": 16,
                     "move": "swift"
+                },
+                {
+                    "level": 18,
+                    "move": "recover"
+                },
+                {
+                    "level": 20,
+                    "move": "psywave"
+                },
+                {
+                    "level": 25,
+                    "move": "tri-attack"
                 }
             ],
             "name": "porygon",
@@ -10944,6 +11529,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 20,
+                    "move": "aurora-beam"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "omanyte",
@@ -11022,6 +11619,18 @@
                 {
                     "level": 16,
                     "move": "rock-tomb"
+                },
+                {
+                    "level": 18,
+                    "move": "rapid-spin"
+                },
+                {
+                    "level": 20,
+                    "move": "bubblebeam"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
                 }
             ],
             "name": "kabuto",
@@ -11337,13 +11946,26 @@
             "evolutions": [
                 {
                     "into": "meganium",
-                    "level": 1,
+                    "level": 36,
                     "method": "level"
                 }
             ],
             "gender": "f12.5",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "mega-drain"
+                },
+                {
+                    "level": 20,
+                    "move": "poisonpowder"
+                },
+                {
+                    "level": 25,
+                    "move": "synthesis"
+                }
+            ],
             "name": "bayleef",
             "pokedex": 153,
             "stats": {
@@ -11436,13 +12058,26 @@
             "evolutions": [
                 {
                     "into": "typhlosion",
-                    "level": 1,
+                    "level": 36,
                     "method": "level"
                 }
             ],
             "gender": "f12.5",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "scary-face"
+                },
+                {
+                    "level": 20,
+                    "move": "spark"
+                },
+                {
+                    "level": 25,
+                    "move": "fire-punch"
+                }
+            ],
             "name": "quilava",
             "pokedex": 156,
             "stats": {
@@ -11504,7 +12139,7 @@
                 },
                 {
                     "level": 10,
-                    "move": "rage"
+                    "move": "karate-chop"
                 },
                 {
                     "level": 12,
@@ -11539,13 +12174,26 @@
             "evolutions": [
                 {
                     "into": "feraligatr",
-                    "level": 1,
+                    "level": 36,
                     "method": "level"
                 }
             ],
             "gender": "f12.5",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "scary-face"
+                },
+                {
+                    "level": 20,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 25,
+                    "move": "crunch"
+                }
+            ],
             "name": "croconaw",
             "pokedex": 159,
             "stats": {
@@ -11637,7 +12285,20 @@
             "base_experience": 116,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 20,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
+                }
+            ],
             "name": "furret",
             "pokedex": 162,
             "stats": {
@@ -11692,6 +12353,14 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "featherdance"
+                },
+                {
+                    "level": 20,
+                    "move": "swift"
                 }
             ],
             "name": "hoothoot",
@@ -11714,7 +12383,12 @@
             "base_experience": 162,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "extrasensory"
+                }
+            ],
             "name": "noctowl",
             "pokedex": 164,
             "stats": {
@@ -11792,7 +12466,24 @@
             "base_experience": 134,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "reflect"
+                },
+                {
+                    "level": 18,
+                    "move": "light-screen"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "giga-drain"
+                }
+            ],
             "name": "ledian",
             "pokedex": 166,
             "stats": {
@@ -11848,6 +12539,14 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "toxic"
+                },
+                {
+                    "level": 20,
+                    "move": "mega-drain"
                 }
             ],
             "name": "spinarak",
@@ -11870,7 +12569,12 @@
             "base_experience": 134,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "signal-beam"
+                }
+            ],
             "name": "ariados",
             "pokedex": 168,
             "stats": {
@@ -12176,6 +12880,18 @@
                 {
                     "level": 16,
                     "move": "psybeam"
+                },
+                {
+                    "level": 18,
+                    "move": "leer"
+                },
+                {
+                    "level": 20,
+                    "move": "night-shade"
+                },
+                {
+                    "level": 25,
+                    "move": "drill-peck"
                 }
             ],
             "name": "natu",
@@ -12272,13 +12988,26 @@
             "evolutions": [
                 {
                     "into": "ampharos",
-                    "level": 1,
+                    "level": 30,
                     "method": "level"
                 }
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "cotton-spore"
+                },
+                {
+                    "level": 20,
+                    "move": "dragonbreath"
+                },
+                {
+                    "level": 25,
+                    "move": "thunderpunch"
+                }
+            ],
             "name": "flaaffy",
             "pokedex": 180,
             "stats": {
@@ -12394,7 +13123,20 @@
             "base_experience": 153,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "lovely-kiss"
+                },
+                {
+                    "level": 20,
+                    "move": "aqua-jet"
+                },
+                {
+                    "level": 25,
+                    "move": "submission"
+                }
+            ],
             "name": "azumarill",
             "pokedex": 184,
             "stats": {
@@ -12438,6 +13180,18 @@
                 {
                     "level": 16,
                     "move": "rock-tomb"
+                },
+                {
+                    "level": 18,
+                    "move": "conversion"
+                },
+                {
+                    "level": 20,
+                    "move": "counter"
+                },
+                {
+                    "level": 25,
+                    "move": "bone-club"
                 }
             ],
             "name": "sudowoodo",
@@ -12537,13 +13291,26 @@
             "evolutions": [
                 {
                     "into": "jumpluff",
-                    "level": 1,
+                    "level": 30,
                     "method": "level"
                 }
             ],
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "stun-spore"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "giga-drain"
+                }
+            ],
             "name": "skiploom",
             "pokedex": 188,
             "stats": {
@@ -12609,6 +13376,18 @@
                 {
                     "level": 16,
                     "move": "swift"
+                },
+                {
+                    "level": 18,
+                    "move": "tail-whip"
+                },
+                {
+                    "level": 20,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
                 }
             ],
             "name": "aipom",
@@ -12686,7 +13465,20 @@
             "base_experience": 146,
             "gender": "f50",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 18,
+                    "move": "leech-seed"
+                },
+                {
+                    "level": 20,
+                    "move": "magical-leaf"
+                },
+                {
+                    "level": 25,
+                    "move": "toxic"
+                }
+            ],
             "name": "sunflora",
             "pokedex": 192,
             "stats": {
@@ -12734,6 +13526,18 @@
                 {
                     "level": 16,
                     "move": "wing-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "detect"
+                },
+                {
+                    "level": 20,
+                    "move": "screech"
+                },
+                {
+                    "level": 25,
+                    "move": "giga-drain"
                 }
             ],
             "name": "yanma",
@@ -12873,6 +13677,18 @@
                 {
                     "level": 16,
                     "move": "faint-attack"
+                },
+                {
+                    "level": 18,
+                    "move": "will-o-wisp"
+                },
+                {
+                    "level": 20,
+                    "move": "icy-wind"
+                },
+                {
+                    "level": 25,
+                    "move": "air-slash"
                 }
             ],
             "name": "murkrow",
@@ -13004,6 +13820,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "psywave"
+                },
+                {
+                    "level": 20,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 25,
+                    "move": "tri-attack"
                 }
             ],
             "name": "girafarig",
@@ -13044,7 +13872,7 @@
                 },
                 {
                     "level": 5,
-                    "move": "pin-missile"
+                    "move": "twineedle"
                 },
                 {
                     "level": 10,
@@ -13057,6 +13885,18 @@
                 {
                     "level": 16,
                     "move": "rapid-spin"
+                },
+                {
+                    "level": 18,
+                    "move": "pain-split"
+                },
+                {
+                    "level": 20,
+                    "move": "selfdestruct"
+                },
+                {
+                    "level": 25,
+                    "move": "signal-beam"
                 }
             ],
             "name": "pineco",
@@ -13123,6 +13963,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "featherdance"
+                },
+                {
+                    "level": 20,
+                    "move": "bulldoze"
+                },
+                {
+                    "level": 25,
+                    "move": "body-slam"
                 }
             ],
             "name": "dunsparce",
@@ -13221,6 +14073,14 @@
                 {
                     "level": 16,
                     "move": "swift"
+                },
+                {
+                    "level": 18,
+                    "move": "thunder-wave"
+                },
+                {
+                    "level": 20,
+                    "move": "dizzy-punch"
                 }
             ],
             "name": "snubbull",
@@ -13242,7 +14102,12 @@
             "base_experience": 178,
             "gender": "f75",
             "items": [],
-            "learnset": [],
+            "learnset": [
+                {
+                    "level": 25,
+                    "move": "submission"
+                }
+            ],
             "name": "granbull",
             "pokedex": 210,
             "stats": {
@@ -13290,6 +14155,18 @@
                 {
                     "level": 16,
                     "move": "sludge"
+                },
+                {
+                    "level": 18,
+                    "move": "thunder-wave"
+                },
+                {
+                    "level": 20,
+                    "move": "selfdestruct"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "qwilfish",
@@ -13378,6 +14255,18 @@
                 {
                     "level": 16,
                     "move": "rock-throw"
+                },
+                {
+                    "level": 18,
+                    "move": "aerial-ace"
+                },
+                {
+                    "level": 20,
+                    "move": "steel-wing"
+                },
+                {
+                    "level": 25,
+                    "move": "twineedle"
                 }
             ],
             "name": "heracross",
@@ -13452,6 +14341,18 @@
                 {
                     "level": 16,
                     "move": "slash"
+                },
+                {
+                    "level": 18,
+                    "move": "sweet-scent"
+                },
+                {
+                    "level": 20,
+                    "move": "bone-club"
+                },
+                {
+                    "level": 25,
+                    "move": "take-down"
                 }
             ],
             "name": "teddiursa",
@@ -13495,7 +14396,7 @@
             "evolutions": [
                 {
                     "into": "magcargo",
-                    "level": 38,
+                    "level": 30,
                     "method": "level"
                 }
             ],
@@ -13525,6 +14426,18 @@
                 {
                     "level": 16,
                     "move": "flame-wheel"
+                },
+                {
+                    "level": 18,
+                    "move": "recover"
+                },
+                {
+                    "level": 20,
+                    "move": "fire-spin"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
                 }
             ],
             "name": "slugma",
@@ -13598,6 +14511,18 @@
                 {
                     "level": 16,
                     "move": "bulldoze"
+                },
+                {
+                    "level": 18,
+                    "move": "haze"
+                },
+                {
+                    "level": 20,
+                    "move": "aurora-beam"
+                },
+                {
+                    "level": 25,
+                    "move": "dig"
                 }
             ],
             "name": "swinub",
@@ -13697,6 +14622,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "sludge-bomb"
                 }
             ],
             "name": "remoraid",
@@ -13762,6 +14699,18 @@
                 {
                     "level": 16,
                     "move": "aurora-beam"
+                },
+                {
+                    "level": 18,
+                    "move": "perish-song"
+                },
+                {
+                    "level": 20,
+                    "move": "ice-shard"
+                },
+                {
+                    "level": 25,
+                    "move": "drill-peck"
                 }
             ],
             "name": "delibird",
@@ -13808,6 +14757,18 @@
                 {
                     "level": 16,
                     "move": "bubblebeam"
+                },
+                {
+                    "level": 18,
+                    "move": "icy-wind"
+                },
+                {
+                    "level": 20,
+                    "move": "psybeam"
+                },
+                {
+                    "level": 25,
+                    "move": "waterfall"
                 }
             ],
             "name": "mantine",
@@ -13882,6 +14843,18 @@
                 {
                     "level": 16,
                     "move": "bite"
+                },
+                {
+                    "level": 18,
+                    "move": "roar"
+                },
+                {
+                    "level": 20,
+                    "move": "super-fang"
+                },
+                {
+                    "level": 25,
+                    "move": "faint-attack"
                 }
             ],
             "name": "houndour",
@@ -13981,6 +14954,18 @@
                 {
                     "level": 16,
                     "move": "bulldoze"
+                },
+                {
+                    "level": 18,
+                    "move": "roar"
+                },
+                {
+                    "level": 20,
+                    "move": "rapid-spin"
+                },
+                {
+                    "level": 25,
+                    "move": "rock-slide"
                 }
             ],
             "name": "phanpy",
@@ -14070,6 +15055,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "scary-face"
+                },
+                {
+                    "level": 20,
+                    "move": "double-kick"
+                },
+                {
+                    "level": 25,
+                    "move": "extrasensory"
                 }
             ],
             "name": "stantler",
@@ -14196,6 +15193,18 @@
                 {
                     "level": 16,
                     "move": "aurora-beam"
+                },
+                {
+                    "level": 18,
+                    "move": "lovely-kiss"
+                },
+                {
+                    "level": 20,
+                    "move": "icy-wind"
+                },
+                {
+                    "level": 25,
+                    "move": "ice-punch"
                 }
             ],
             "name": "smoochum",
@@ -14249,6 +15258,18 @@
                 {
                     "level": 16,
                     "move": "spark"
+                },
+                {
+                    "level": 18,
+                    "move": "seismic-toss"
+                },
+                {
+                    "level": 20,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 25,
+                    "move": "thunderpunch"
                 }
             ],
             "name": "elekid",
@@ -14305,6 +15326,18 @@
                 {
                     "level": 16,
                     "move": "flame-wheel"
+                },
+                {
+                    "level": 18,
+                    "move": "will-o-wisp"
+                },
+                {
+                    "level": 20,
+                    "move": "shock-wave"
+                },
+                {
+                    "level": 25,
+                    "move": "fire-punch"
                 }
             ],
             "name": "magby",
@@ -14350,6 +15383,18 @@
                 {
                     "level": 16,
                     "move": "stomp"
+                },
+                {
+                    "level": 18,
+                    "move": "heal-bell"
+                },
+                {
+                    "level": 20,
+                    "move": "bulldoze"
+                },
+                {
+                    "level": 25,
+                    "move": "submission"
                 }
             ],
             "name": "miltank",
@@ -14769,7 +15814,7 @@
                     "level": 10,
                     "moves": [
                         "mega-drain",
-                        "fury-cutter",
+                        "twineedle",
                         "cut",
                         "stun-spore"
                     ],
@@ -15078,6 +16123,413 @@
                         "dragon-dance"
                     ],
                     "name": "horsea"
+                }
+            ]
+        },
+        {
+            "area": "Sprout Tower",
+            "meta": "3 random pokemon from the pool",
+            "name": "Sage Edmond",
+            "team": [
+                {
+                    "item": "leftovers",
+                    "level": 20,
+                    "moves": [
+                        "psywave",
+                        "giga-drain",
+                        "poisonpowder",
+                        "string-shot"
+                    ],
+                    "name": "butterfree"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "flame-wheel",
+                        "thief",
+                        "roar",
+                        "super-fang"
+                    ],
+                    "name": "houndour"
+                },
+                {
+                    "item": "blackbelt",
+                    "level": 20,
+                    "moves": [
+                        "shock-wave",
+                        "submission",
+                        "bullet-punch",
+                        "thunder-wave"
+                    ],
+                    "name": "elekid"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "flame-wheel",
+                        "stomp",
+                        "rock-smash",
+                        "agility"
+                    ],
+                    "name": "ponyta"
+                },
+                {
+                    "item": "stick",
+                    "level": 20,
+                    "moves": [
+                        "wing-attack",
+                        "rock-smash",
+                        "steel-wing",
+                        "whirlwind"
+                    ],
+                    "name": "farfetchd"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "wing-attack",
+                        "sludge",
+                        "giga-drain",
+                        "confuse-ray"
+                    ],
+                    "name": "zubat"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 20,
+                    "moves": [
+                        "mega-drain",
+                        "psybeam",
+                        "leech-seed",
+                        "stun-spore"
+                    ],
+                    "name": "exeggcute"
+                },
+                {
+                    "item": "soft-sand",
+                    "level": 20,
+                    "moves": [
+                        "rock-tomb",
+                        "bulldoze",
+                        "scary-face",
+                        "seismic-toss"
+                    ],
+                    "name": "rhyhorn"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "aurora-beam",
+                        "aerial-ace",
+                        "encore",
+                        "icy-wind"
+                    ],
+                    "name": "delibird"
+                },
+                {
+                    "item": "metal-powder",
+                    "level": 20,
+                    "moves": [
+                        "transform"
+                    ],
+                    "name": "ditto"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "glare",
+                        "headbutt",
+                        "bulldoze",
+                        "featherdance"
+                    ],
+                    "name": "dunsparce"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "stomp",
+                        "rock-tomb",
+                        "disable",
+                        "amnesia"
+                    ],
+                    "name": "lickitung"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 20,
+                    "moves": [
+                        "acid",
+                        "giga-drain",
+                        "fire-punch",
+                        "acid-armor"
+                    ],
+                    "name": "grimer"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "sludge",
+                        "bubblebeam",
+                        "barrier",
+                        "bind"
+                    ],
+                    "name": "tentacool"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "psybeam",
+                        "bubblebeam",
+                        "amnesia",
+                        "recover"
+                    ],
+                    "name": "slowpoke"
+                },
+                {
+                    "item": "dragon-fang",
+                    "level": 20,
+                    "moves": [
+                        "rock-slide",
+                        "bone-club",
+                        "dragonbreath",
+                        "bite"
+                    ],
+                    "name": "larvitar"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "spark",
+                        "confuse-ray",
+                        "thunder-wave",
+                        "icy-wind"
+                    ],
+                    "name": "chinchou"
+                },
+                {
+                    "item": "berry",
+                    "level": 20,
+                    "moves": [
+                        "cut",
+                        "metal-claw",
+                        "aerial-ace",
+                        "aqua-jet"
+                    ],
+                    "name": "krabby"
+                }
+            ]
+        },
+        {
+            "area": "Sprout Tower",
+            "meta": "3 random pokemon from the pool",
+            "name": "Sage Jin",
+            "team": [
+                {
+                    "item": "berry-juice",
+                    "level": 25,
+                    "moves": [
+                        "air-slash",
+                        "signal-beam",
+                        "reflect",
+                        "light-screen"
+                    ],
+                    "name": "ledian"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 25,
+                    "moves": [
+                        "extrasensory",
+                        "giga-drain",
+                        "night-shade",
+                        "spider-web"
+                    ],
+                    "name": "ariados"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 25,
+                    "moves": [
+                        "bind",
+                        "toxic",
+                        "protect",
+                        "rest"
+                    ],
+                    "name": "shuckle"
+                },
+                {
+                    "item": "blackbelt",
+                    "level": 25,
+                    "moves": [
+                        "shock-wave",
+                        "fire-punch",
+                        "submission",
+                        "thunder-wave"
+                    ],
+                    "name": "flaaffy"
+                },
+                {
+                    "item": "miracleberry",
+                    "level": 25,
+                    "moves": [
+                        "fire-punch",
+                        "dragonbreath",
+                        "scary-face",
+                        "hyper-fang"
+                    ],
+                    "name": "charmeleon"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 25,
+                    "moves": [
+                        "hypnosis",
+                        "extrasensory",
+                        "night-shade",
+                        "featherdance"
+                    ],
+                    "name": "noctowl"
+                },
+                {
+                    "item": "miracleberry",
+                    "level": 25,
+                    "moves": [
+                        "magical-leaf",
+                        "sludge",
+                        "leech-seed",
+                        "poisonpowder"
+                    ],
+                    "name": "ivysaur"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 25,
+                    "moves": [
+                        "giga-drain",
+                        "fire-spin",
+                        "leech-seed",
+                        "protect"
+                    ],
+                    "name": "sunflora"
+                },
+                {
+                    "item": "thick-club",
+                    "level": 25,
+                    "moves": [
+                        "bone-club",
+                        "rock-throw",
+                        "karate-chop",
+                        "spite"
+                    ],
+                    "name": "cubone"
+                },
+                {
+                    "item": "leftovers",
+                    "level": 25,
+                    "moves": [
+                        "tri-attack",
+                        "psywave",
+                        "recover",
+                        "thunder-wave"
+                    ],
+                    "name": "porygon"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 25,
+                    "moves": [
+                        "dizzy-punch",
+                        "tail-whip",
+                        "fire-punch",
+                        "ice-punch"
+                    ],
+                    "name": "furret"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 25,
+                    "moves": [
+                        "sludge",
+                        "double-kick",
+                        "crunch",
+                        "horn-attack"
+                    ],
+                    "name": "nidorino"
+                },
+                {
+                    "item": "twistedspoon",
+                    "level": 25,
+                    "moves": [
+                        "kinesis",
+                        "flame-wheel",
+                        "shock-wave",
+                        "magical-leaf"
+                    ],
+                    "name": "kadabra"
+                },
+                {
+                    "item": "miracle-seed",
+                    "level": 25,
+                    "moves": [
+                        "rock-throw",
+                        "petal-dance",
+                        "low-kick",
+                        "mimic"
+                    ],
+                    "name": "sudowoodo"
+                },
+                {
+                    "item": "hard-stone",
+                    "level": 25,
+                    "moves": [
+                        "bubblebeam",
+                        "rock-tomb",
+                        "mirror-coat",
+                        "recover"
+                    ],
+                    "name": "corsola"
+                },
+                {
+                    "item": "soft-sand",
+                    "level": 25,
+                    "moves": [
+                        "fly",
+                        "steel-wing",
+                        "toxic",
+                        "mud-slap"
+                    ],
+                    "name": "skarmory"
+                },
+                {
+                    "item": "miracleberry",
+                    "level": 25,
+                    "moves": [
+                        "bubblebeam",
+                        "skull-bash",
+                        "seismic-toss",
+                        "icy-wind"
+                    ],
+                    "name": "wartortle"
+                },
+                {
+                    "item": "berry-juice",
+                    "level": 25,
+                    "moves": [
+                        "waterfall",
+                        "submission",
+                        "fake-tears",
+                        "aurora-beam"
+                    ],
+                    "name": "azumarill"
                 }
             ]
         }

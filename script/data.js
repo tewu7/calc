@@ -145,7 +145,7 @@ var trueNames = [
 var nameFormatting = new Map();
 
 var priorityMoves = new Set([
-	"quick-attack", "mach-punch", "extremespeed", "protect", "detect", "endure"
+	"quick-attack", "mach-punch", "extremespeed", "protect", "detect", "endure", "bullet-punch", "ice-shard", "aqua-jet"
 ]);
 
 function loadData(text) {
