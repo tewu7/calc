@@ -48366,17 +48366,6 @@
                         "giga-drain"
                     ],
                     "name": "tentacruel"
-                },
-                {
-                    "item": "focus-band",
-                    "level": 54,
-                    "moves": [
-                        "psychic",
-                        "giga-drain",
-                        "hydro-pump",
-                        "sky-attack"
-                    ],
-                    "name": "butterfree"
                 }
             ]
         },
@@ -48446,6 +48435,17 @@
                         "protect"
                     ],
                     "name": "shuckle"
+                },
+                {
+                    "item": "blackbelt",
+                    "level": 51,
+                    "moves": [
+                        "thunderbolt",
+                        "cross-chop",
+                        "ice-punch",
+                        "mach-punch"
+                    ],
+                    "name": "electabuzz"
                 }
             ]
         },
@@ -48527,64 +48527,48 @@
             "name": "gruntm-16",
             "team": [
                 {
-                    "item": "hard-stone",
-                    "level": 49,
+                    "item": "quick-claw",
+                    "level": 50,
                     "moves": [
-                        "ancientpower",
                         "megahorn",
-                        "surf",
-                        "earthquake"
+                        "bone-club",
+                        "thunder",
+                        "iron-tail"
                     ],
                     "name": "rhydon"
                 },
                 {
-                    "dvs": {
-                        "atk": 12,
-                        "def": 13,
-                        "hp": 7,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "sharp-beak",
-                    "level": 49,
+                    "item": "berserk-gene",
+                    "level": 53,
                     "moves": [
-                        "hp-flying",
-                        "double-edge",
-                        "waterfall",
-                        "thunderbolt"
-                    ],
-                    "name": "gyarados"
-                },
-                {
-                    "dvs": {
-                        "atk": 13,
-                        "def": 13,
-                        "hp": 15,
-                        "spa": 15,
-                        "spd": 15,
-                        "spe": 15
-                    },
-                    "item": "miracle-seed",
-                    "level": 49,
-                    "moves": [
+                        "sky-attack",
                         "ancientpower",
-                        "quick-attack",
-                        "wing-attack",
-                        "hp-bug"
+                        "giga-drain",
+                        "dragonbreath"
                     ],
                     "name": "yanma"
                 },
                 {
-                    "item": "pink-bow",
-                    "level": 49,
+                    "item": "twistedspoon",
+                    "level": 53,
                     "moves": [
-                        "double-edge",
-                        "thunder",
-                        "shadow-ball",
-                        "iron-tail"
+                        "hydro-pump",
+                        "psychic",
+                        "ice-beam",
+                        "thunderpunch"
                     ],
-                    "name": "persian"
+                    "name": "golduck"
+                },
+                {
+                    "item": "lucky-punch",
+                    "level": 55,
+                    "moves": [
+                        "withdraw",
+                        "thunder",
+                        "blizzard",
+                        "fire-blast"
+                    ],
+                    "name": "chansey"
                 }
             ]
         },
