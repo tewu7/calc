@@ -20,7 +20,7 @@ function displayItemsMap() {
             item.innerHTML = `
                 <div>
                     ${getTrainerName(entry.name)}
-                    ${createLink('#/trainer/${entry.name}/', '<button style="float:right;">Info</button>')}
+                    ${createLink(`#/trainer/${entry.name}/`, `<button style="float:right;">Info</button>`)}
 			    </div>
             `;
         }
