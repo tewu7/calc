@@ -19968,7 +19968,7 @@
         {
             "accuracy": 100,
             "extra": [
-                "30% chance to confuse opponent"
+                "10% chance to confuse opponent"
             ],
             "index": 60,
             "name": "psybeam",
@@ -41890,7 +41890,7 @@
             "evolutions": [
                 {
                     "into": "tyranitar",
-                    "level": 65,
+                    "level": 55,
                     "method": "level"
                 }
             ],
@@ -41902,15 +41902,15 @@
                     "move": "rock-throw"
                 },
                 {
-                    "level": 47,
+                    "level": 37,
                     "move": "bite"
                 },
                 {
-                    "level": 54,
+                    "level": 44,
                     "move": "scary-face"
                 },
                 {
-                    "level": 65,
+                    "level": 55,
                     "move": "hyper-beam"
                 },
                 {
@@ -61335,6 +61335,424 @@
             "attacker": "psychic",
             "defender": "dark",
             "multiplier": 0.0
+        }
+    ],
+    "items_map": [
+        {
+            "type": "item",
+            "location": "Route 29",
+            "name": "pink-bow",
+            "amount": 1,
+            "description": "Given by a red woman near a ledge"
+        },
+        {
+            "type": "item",
+            "location": "Route 29",
+            "name": "psncureberry",
+            "amount": 99,
+            "description": "Tree close to Cherrygrove"
+        },
+        {
+            "type": "item",
+            "location": "Route 30",
+            "name": "mint-berry",
+            "amount": 99,
+            "description": "Tree by Berry Guy's house"
+        },
+        {
+            "type": "item",
+            "location": "Route 30",
+            "name": "berry",
+            "amount": 99,
+            "description": "Given by Berry Guy inside his house"
+        },
+        {
+            "type": "item",
+            "location": "Route 30",
+            "name": "przcureberry",
+            "amount": 99,
+            "description": "Tree by Mr. Pokemon's house"
+        },
+        {
+            "type": "roadblock",
+            "name": "bug-catcher-don"
+        },
+        {
+            "type": "item",
+            "location": "Route 31",
+            "name": "bitter-berry",
+            "amount": 99,
+            "description": "Tree next to sleeping guy"
+        },
+        {
+            "type": "roadblock",
+            "name": "bug-catcher-wade"
+        },
+        {
+            "type": "item",
+            "location": "Violet City",
+            "name": "burnt-berry",
+            "amount": 99,
+            "description": "Tree south west"
+        },
+        {
+            "type": "item",
+            "location": "Route 36",
+            "name": "hard-stone",
+            "amount": 1,
+            "description": "Given by a youngster near the grass"
+        },
+        {
+            "type": "item",
+            "location": "Route 36",
+            "name": "ice-berry",
+            "amount": 99,
+            "description": "Tree next to the grass"
+        },
+        {
+            "type": "roadblock",
+            "name": "sage-li"
+        },
+        {
+            "type": "item",
+            "location": "Sprout Tower",
+            "name": "hm-05",
+            "amount": 1,
+            "description": "Given by Sage Li after defeating him"
+        },
+        {
+            "type": "roadblock",
+            "name": "leader-falkner"
+        },
+        {
+            "type": "item",
+            "location": "Violet City",
+            "name": "tm-31",
+            "amount": 1,
+            "description": "Given by Falkner after defeating him"
+        },
+        {
+            "type": "item",
+            "location": "Ruins of Alph",
+            "name": "gold-berry",
+            "amount": 1,
+            "description": "In a room unlocked by using flash in the south east chamber"
+        },
+        {
+            "type": "item",
+            "location": "Ruins of Alph",
+            "name": "moon-stone",
+            "amount": 1,
+            "description": "In a room unlocked by using flash in the south east chamber"
+        },
+        {
+            "type": "item",
+            "location": "Route 32",
+            "name": "miracle-seed",
+            "amount": 1,
+            "description": "Given by a man right before entering the gauntlet"
+        },
+        {
+            "type": "roadblock",
+            "name": "bird-keeper-peter"
+        },
+        {
+            "type": "item",
+            "location": "Route 32",
+            "name": "poison-barb",
+            "amount": 1,
+            "description": "Given by a girl above the pokecenter"
+        },
+        {
+            "type": "item",
+            "location": "Route 32",
+            "name": "old-rod",
+            "amount": 1,
+            "description": "Given by a fisherman inside the pokecenter"
+        },
+        {
+            "type": "roadblock",
+            "name": "firebreather-ray"
+        },
+        {
+            "type": "item",
+            "location": "Union Cave",
+            "name": "tm-39",
+            "amount": 1,
+            "description": "On the ground right above Hiker Phillip"
+        },
+        {
+            "type": "roadblock",
+            "name": "rival1-5"
+        },
+        {
+            "type": "item",
+            "location": "Ilex Forest",
+            "name": "hm-01",
+            "amount": 1,
+            "description": "Given by a man after saving his Farfetch'd"
+        },
+        {
+            "type": "item",
+            "location": "Azalea Town",
+            "name": "charcoal",
+            "amount": 1,
+            "description": "Given by an apprentice in a house below the pokecenter"
+        },
+        {
+            "type": "roadblock",
+            "name": "leader-bugsy"
+        },
+        {
+            "type": "item",
+            "location": "Azalea Town",
+            "name": "tm-49",
+            "amount": 1,
+            "description": "Given by Bugsy after defeating him"
+        },
+        {
+            "type": "item",
+            "location": "Route 32",
+            "name": "tm-05",
+            "amount": 1,
+            "description": "Given by a man behind a cut tree"
+        },
+        {
+            "type": "item",
+            "location": "Ilex Forest",
+            "name": "tm-02",
+            "amount": 1,
+            "description": "Given by a man near a ledge behind a cut tree"
+        },
+        {
+            "type": "roadblock",
+            "name": "bug-catcher-wayne"
+        },
+        {
+            "type": "item",
+            "location": "Route 34",
+            "name": "tm-12",
+            "amount": 1,
+            "description": "Given by a woman in the gate connecting to Ilex Forest"
+        },
+        {
+            "type": "roadblock",
+            "name": "cooltrainerf-kate"
+        },
+        {
+            "type": "item",
+            "location": "Route 34",
+            "name": "soft-sand",
+            "amount": 1,
+            "description": "Given by Cooltrainerf Kate after defeating her"
+        },
+        {
+            "type": "roadblock",
+            "name": "pokefanm-brandon"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-25",
+            "amount": 1,
+            "description": "Sold in the game corner"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-14",
+            "amount": 1,
+            "description": "Sold in the game corner"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-38",
+            "amount": 1,
+            "description": "Sold in the game corner"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "everstone",
+            "amount": 99,
+            "description": "Every evolution stone, sold in the department store"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-41",
+            "amount": 99,
+            "description": "Sold in the department store"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-48",
+            "amount": 99,
+            "description": "Sold in the department store"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-33",
+            "amount": 99,
+            "description": "Sold in the department store"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-02",
+            "amount": 99,
+            "description": "Sold in the department store after obtaining the headbutt TM in ilex forest"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-27",
+            "amount": 1,
+            "description": "Given by a girl next to the TM vendor"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-21",
+            "amount": 1,
+            "description": "Given by a girl next to the TM vendor"
+        },
+        {
+            "type": "roadblock",
+            "name": "leader-whitney"
+        },
+        {
+            "type": "item",
+            "location": "Goldenrod City",
+            "name": "tm-45",
+            "amount": 1,
+            "description": "Given by Whitney after defeating her"
+        },
+        {
+            "type": "roadblock",
+            "name": "picnicker-kim"
+        },
+        {
+            "type": "item",
+            "location": "Route 35",
+            "name": "tm-04",
+            "amount": 1,
+            "description": "On the ground next to the lake"
+        },
+        {
+            "type": "roadblock",
+            "name": "juggler-irwin"
+        },
+        {
+            "type": "item",
+            "location": "National Park",
+            "name": "tm-28",
+            "amount": 1,
+            "description": "On the ground on the path to the right"
+        },
+        {
+            "type": "roadblock",
+            "name": "schoolboy-alan"
+        },
+        {
+            "type": "item",
+            "location": "Route 36",
+            "name": "tm-08",
+            "amount": 99,
+            "description": "Given by a man after defeating sudowoodo, afterwards sold in the goldenrod department store"
+        },
+        {
+            "type": "roadblock",
+            "name": "psychic-mark"
+        },
+        {
+            "type": "item",
+            "location": "Route 37",
+            "name": "magnet",
+            "amount": 1,
+            "description": "Given by a boy north west"
+        },
+        {
+            "type": "roadblock",
+            "name": "psychic-greg"
+        },
+        {
+            "type": "item",
+            "location": "Route 37",
+            "name": "mysteryberry",
+            "amount": 99,
+            "description": "Tree below a ledge"
+        },
+        {
+            "type": "item",
+            "location": "Ecruteak City",
+            "name": "berry-juice",
+            "amount": 99,
+            "description": "Sold in the mart"
+        },
+        {
+            "type": "roadblock",
+            "name": "leader-morty"
+        },
+        {
+            "type": "item",
+            "location": "Ecruteak City",
+            "name": "tm-30",
+            "amount": 1,
+            "description": "Given by Morty after defeating him"
+        },
+        {
+            "type": "item",
+            "location": "Ecruteak City",
+            "name": "good-rod",
+            "amount": 1,
+            "description": "Given by a fisherman next to the lake"
+        },
+        {
+            "type": "roadblock",
+            "name": "kimono-girl-miki"
+        },
+        {
+            "type": "item",
+            "location": "Ecruteak City",
+            "name": "hm-03",
+            "amount": 1,
+            "description": "Given by an old man in the dance theatre"
+        },
+        {
+            "type": "item",
+            "location": "Cherrygrove City",
+            "name": "mystic-water",
+            "amount": 1,
+            "description": "Given by a fisherman on an island"
+        },
+        {
+            "type": "item",
+            "location": "Route 42",
+            "name": "miracleberry",
+            "amount": 99,
+            "description": "Tree behind a cut tree"
+        },
+        {
+            "type": "roadblock",
+            "name": "schoolboy-chad"
+        },
+        {
+            "type": "item",
+            "location": "Route 39",
+            "name": "tm-13",
+            "amount": 1,
+            "description": "Given by a woman after feeding her sick miltank"
+        },
+        {
+            "type": "item",
+            "location": "Route 39",
+            "name": "thick-club",
+            "amount": 1,
+            "description": "On the ground hidden in the middle of 4 miltanks on the ranch"
         }
     ]
 }

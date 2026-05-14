@@ -61737,6 +61737,10 @@
             "description": "Tree behind a cut tree"
         },
         {
+            "type": "roadblock",
+            "name": "schoolboy-chad"
+        },
+        {
             "type": "item",
             "location": "Route 39",
             "name": "tm-13",
